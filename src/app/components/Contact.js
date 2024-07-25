@@ -36,7 +36,10 @@ export default function Contact() {
             </form>
 
             <h2 id="contact" class="mb-4 text-4xl tracking-tight font-bold text-center text-gray-900 dark:text-black mt-10">Fale Conosco</h2>
-            <p class="mb-8 lg:mb-16 font-regular text-center text-gray-500 dark:text-black sm:text-base"> Entre em contato pelo telefone com nossas lojas de Jundiaí e Itatiba. Com cenrteza teremos um atendente pronto para lhe ajudar com o que precisar.</p>
+            <p class="mb-8 lg:mb-16 font-regular text-center text-gray-500 dark:text-black sm:text-base"> 
+                Entre em contato com nossos times em Jundiaí e Itatiba. 
+                <br></br>
+                Com certeza teremos um atendente pronto para lhe ajudar.</p>
 
             <div className="flex gap-4 justify-center ">
                 <p class="block mb-2 text-sm font-medium text-gray-900 dar    k:text-black">Telefone ✆ Jundiaí: (55) 11 4522-6982</p> <br/> <p class="block mb-2 text-sm font-medium text-gray-900 dar    k:text-black">Telefone ✆ Itatiba: (55) 11 4487-0986</p> <br/>
@@ -67,7 +70,7 @@ export default function Contact() {
                             className="flex rounded-full bg-white px-10 py-3 text-sm font-medium text-black transition hover:bg-white hover:text-black border hover:border-black hover:font-medium focus:outline-none">
                             <svg
                             className="h-5 mr-2"
-                                xmlns="http://www.w3.org/2000/svg"
+                                xmlns="http://www.w3.org/2000/sv    g"
                                 fill="currentColor"
                                 viewBox="0 0 448 512">
                                 <path

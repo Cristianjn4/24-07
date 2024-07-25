@@ -1,4 +1,4 @@
-export function SensationsItem() {
+export function HeritageItem() {
     return(
         <section class=" py-8 bg-white md:py-16 dark:bg-gray-900 antialiased">
     <div class="max-w-screen-xl px-4 mx-auto 2xl:px-0 pt-28">
@@ -6,28 +6,28 @@ export function SensationsItem() {
         <div class="shrink-0 max-w-md lg:max-w-lg mx-auto">
         <div className="text-white bg-stone-900 rounded-lg w-auto m-4 px-3 absolute text-center"> Frete Grátis </div>
 
-          <img class="w-full dark:hidden" src="Sensations Plush.png" alt="" />
+          <img class="w-full dark:hidden" src="Heritage.png" alt="" />
         </div>
 
         <div class="mt-6 sm:mt-8 lg:mt-0">
           <h1 className="text-3xl font-extrabold text-gray-900  dark:text-white">
-            Colchão Simmons Sensations Plush
+            Colchão Simmons Heritage
           </h1>
           <div class="mt-4 sm:items-center sm:gap-4 sm:flex">
             <p
               class="text-2xl font-semibold text-gray-900 sm:text-3xl dark:text-white"
             >
-              Macio
+              Super Macio
             </p>
 
             <div class="flex items-center gap-2 mt-2 sm:mt-0">
               <div class="flex items-center gap-1">
 
                 <p className="font-extrabold">
-                  1 2
+                  1 2 3 4 5
                 </p>
                 <p className="font-extrabold text-gray-400 ">
-                3 4 5
+                  
                 </p>
                 
                 
@@ -35,7 +35,7 @@ export function SensationsItem() {
               <p
                 class="text-sm font-medium leading-none text-gray-500 dark:text-gray-400"
               > 
-                (série - 1)
+                (série - 5)
               </p>
       
             </div>
@@ -43,7 +43,7 @@ export function SensationsItem() {
 
           <div class="mt-6 sm:gap-4 sm:items-center sm:flex sm:mt-8">
             <a
-              href="https://api.whatsapp.com/send?phone=5511995379301&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20o%20colch%C3%A3o%20*Simmons%SensationsPlush.*"
+              href="https://api.whatsapp.com/send?phone=5511995379301&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20o%20colch%C3%A3o%20*Simmons%20Heritage.*"
               target="blank"
               title=""
               class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-green-500 hover:text-green-500 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
@@ -61,7 +61,7 @@ export function SensationsItem() {
             </a>
 
             <a
-              href="https://www.portalsimmons.com.br/source/files/originals/CO_SENSAT_PLUS_2023-9CSIS_LOS33-262016.pdf"
+              href="https://www.portalsimmons.com.br/source/files/originals/CO_HERITAGE_-_10BROC_EPTOS41-021032.pdf"
               target="blank"
               title=""
               class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-white focus:outline-none bg-black rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
@@ -122,8 +122,8 @@ export function SensationsItem() {
             </p>
             <br></br>
             <p className="font-normal">
-            Consulte a disponibilidade da entrega em até 12h.
-                        </p>
+              Consulte a disponibilidade da entrega em até 12h.  
+            </p>
           </div>
 
           <hr class="my-6 md:my-8 border-gray-200 dark:border-gray-800" />
@@ -132,25 +132,25 @@ export function SensationsItem() {
 
           <div className="flex gap-10">
           <p className="pt-4">
-          <img alt="ANTIÁCARO" src="https://www.portalsimmons.com.br/source/files/c/3343/Icone_Belgian_design-836187_80-80-0-0.jpg" title="ANTIÁCARO" />
+          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/2864/pulse-627051_80-80-0-0.jpg" />
           </p>
           <p className="pt-4">
-          <img alt="Argentum (Simmons)" src="https://www.portalsimmons.com.br/source/files/c/3324/Icone_D26-394493_80-80-0-0.jpg" title="Argentum (Simmons)" />
+          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3324/Icone_D26-394493_80-80-0-0.jpg"  />
           </p>
           <p className="pt-4">
-          <img alt="Argentum (Simmons)" src="https://www.portalsimmons.com.br/source/files/c/3338/Icone_Posturest-491235_80-80-0-0.jpg" title="Argentum (Simmons)" />
-          </p>          </div>
+          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3321/Icone_Visco-776069_80-80-0-0.jpg" />
+          </p>
+          </div>
           <div className="flex text-justify text-xs font-light gap-10">
-          <p>Tecido antiácaro</p> <p>Argentum+</p> <p>Espuma de <br/> Beautyrest®</p> 
+          <p>Pulse Natural<br/> Latex</p> <p>Espuma de <br/> acolhida macia  </p> <p>Visco</p>
           </div>
           <p>&nbsp;</p>
 
-          <p dir="ltr"><strong>SOBRE O PRODUTO:</strong></p>
+          <h4><strong>SOBRE O PRODUTO:</strong></h4>
 
-          <p dir="ltr">A Simmons Posturest traz para o Brasil o mais famoso e desejado colchão americano, com as Molas LFK 2.2 extra Support nos mais diferentes níveis de conforto.</p>
-
-          <p><strong>&nbsp;</strong></p>
-
+          <p>
+          Sua primorosa combinação de materiais nobres e tecnologias diferenciadas, proporcionará momentos indescritíveis para as suas noites.          </p>
+                <br/><br/>
           <h4><strong>DETALHES DO PRODUTO:</strong></h4>
 
           <p><img alt="One side" src="https://www.portalsimmons.com.br/source/files/c/139/One_side_330-100-0-0.jpg" title="One side" /></p>
@@ -161,15 +161,15 @@ export function SensationsItem() {
 
           <p dir="ltr"><strong>CARACTER&Iacute;STICAS:</strong></p>
 
-          <p dir="ltr">Altura: 33cm</p>
+          <p dir="ltr">Altura: 41cm</p>
 
-          <p dir="ltr">N&iacute;vel de conforto &rarr; Macio</p>
+          <p dir="ltr">N&iacute;vel de conforto &rarr; Super Macio</p>
 
-          <p dir="ltr">Tecido da capa: Tecido robusto em malha Chablis com exclusivo design belga de leve toque. (70% Poliéster / 30% Viscose)</p>
+          <p dir="ltr">Tecido da capa: Nobre tecido em malha composta por fios de Viscose de Microtencel de suave toque (72% Poliéster / 28% Viscose).</p>
 
-          <p dir="ltr">Tecido da faixa lateral:Tecido lateral em Original Suede Sisal (100% Poliéster)</p>
+          <p dir="ltr">Tecido da faixa lateral: Tecido em Linho Brooks Cinza 370g (100% Poliéster).</p>
 
-          <p dir="ltr">Tecnologias: Belgian Design, Espuma de acolhida macia, Posturest , Posturest LFK2.2</p>
+          <p dir="ltr">Tecnologias: Pulse Natural Latex, Espuma de acolhida macia, Visco, Beautyrest Evo</p>
 
           </p>
         </div>

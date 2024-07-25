@@ -121,8 +121,8 @@ export function EvolutionItem() {
             </p>
             <br></br>
             <p className="font-normal">
-              Entrega Disponível em até 12h.  
-            </p>
+            Consulte a disponibilidade da entrega em até 12h.
+                        </p>
           </div>
 
           <hr class="my-6 md:my-8 border-gray-200 dark:border-gray-800" />

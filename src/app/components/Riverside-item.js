@@ -117,8 +117,8 @@ export function RiversideItem() {
             </p>
             <br></br>
             <p className="font-normal">
-              Entrega Disponível em até 12h.
-            </p>
+            Consulte a disponibilidade da entrega em até 12h.
+                        </p>
           </div>
 
 
@@ -136,17 +136,6 @@ export function RiversideItem() {
           <p>Bamboo Touch</p> <p>Espuma de <br/> alta densidade</p> <p>Espuma de  <br/> acolhida macia</p>
           </div>
           <p>&nbsp;</p>
-
-
-          <p dir="ltr"><strong>IMPORTANTE:</strong></p>
-
-<p dir="ltr">🚚 Para garantir que sua encomenda seja entregue com rapidez e efici&ecirc;ncia, &eacute; importante verificar se h&aacute; disponibilidade de entrega em sua regi&atilde;o.</p>
-
-<p dir="ltr">📦 Caso haja disponibilidade de estoque, a entrega ser&aacute; feita em at&eacute; &rarr; 5 dias &uacute;teis. No entanto, se o produto n&atilde;o estiver dispon&iacute;vel, a entrega pode levar at&eacute; &rarr; 15 dias &uacute;teis.&nbsp;</p>
-
-<p dir="ltr">Agradecemos pela sua compreens&atilde;o e esperamos que voc&ecirc; tenha uma excelente experi&ecirc;ncia de compra conosco.</p>
-
-<p dir="ltr">&nbsp;</p>
 
 <p dir="ltr"><strong>SOBRE O PRODUTO:</strong></p>
 
