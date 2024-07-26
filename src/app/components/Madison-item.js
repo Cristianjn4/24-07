@@ -5,7 +5,7 @@ export function MadisonItem() {
       <div class="lg:grid lg:grid-cols-2 lg:gap-8 xl:gap-16">
         <div class="shrink-0 max-w-md lg:max-w-lg mx-auto">
         <div className="text-white bg-stone-900 rounded-lg w-auto m-4 px-3 absolute text-center"> Frete Grátis </div>
-          <img class="w-full dark:hidden" src="madison.png" alt="" />
+          <img class="w-full" src="madison.png" alt="" />
         </div>
 
         <div class="mt-6 sm:mt-8 lg:mt-0">

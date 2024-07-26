@@ -10,7 +10,11 @@ export function CarouselBody(){
                 {/*Simmons é uma marca tradicionalmente reconhecida pela sua qualidade e tecnologia, atuando por mais de um século no mercado.
                 São 150 anos de história no desenvolvimento dos melhores colchões, presente nas melhores redes de hotéis do mundo, e com lojas em mais de 100 países!  */}
 
-                Simmons é conhecida pela qualidade de seus colchões, presentes em hotéis de todo o mundo e em lojas de mais de 100 países.
+                Simmons é conhecida pela qualidade e referência internacional de seus colchões sendo pioneira em muitas tecnologias. 
+                <br></br>
+                Nas lojas Simmons em Jundiaí e Itatiba você terá o melhor atendimento para escolher seu novo colchão Simmons
+                <br></br>
+                e ter as melhores noites de sono!
                 </p>
             </div>
 

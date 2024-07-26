@@ -8,7 +8,8 @@ export function Destaque(){
                     Destaque Loja Perfeita Simmons
                 </h3> 
                 <p className="hidden. font-medium text-lg text-black pt-10 md:block">
-                    Conheça Simmons Casa Orner Exclusiva que é "Destaque Loja Perfeita" <br></br> entre as mais de 130 lojas no Brasil.
+                Conheça a Simmons Casa Orner e tenha melhor experiência na escolha do seu colchão ideal! <br></br>
+                A Exclusiva que é "Destaque Loja Perfeita" entre as mais de 130 lojas no Brasil.
                 <a className="ml-1 font-bold underline hover:text-gray-700" href="https://www.instagram.com/stories/highlights/17856368678956115/" target="blank">Confira agora mesmo!</a>
                 </p>
                 

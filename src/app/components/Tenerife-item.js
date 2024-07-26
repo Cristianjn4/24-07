@@ -5,7 +5,7 @@ export function TenerifeItem() {
       <div class="lg:grid lg:grid-cols-2 lg:gap-8 xl:gap-16">
         <div class="shrink-0 max-w-md lg:max-w-lg mx-auto">
         <div className="text-white bg-stone-900 rounded-lg w-auto m-4 px-3 absolute text-center"> Frete Grátis </div>
-          <img class="w-full dark:hidden" src="tenerife.png" alt="" />
+          <img class="w-full" src="tenerife.png" alt="" />
         </div>
 
         <div class="mt-6 sm:mt-8 lg:mt-0">
@@ -127,8 +127,8 @@ export function TenerifeItem() {
           <p class="mb-6 text-gray-500">
 
 <div className="flex gap-10">
-<img alt="Icone_Bamboo_Touch" src="https://www.portalsimmons.com.br/source/files/c/3339/Icone_Bamboo_Touch-274055_80-80-0-0.jpg" title="Icone_Bamboo_Touch" />
-<img alt="Icone_D30" src="https://www.portalsimmons.com.br/source/files/c/3326/Icone_D30-552591_80-80-0-0.jpg" title="Icone_D30" />
+<img alt="" src="https://www.portalsimmons.com.br/source/files/c/3339/Icone_Bamboo_Touch-274055_80-80-0-0.jpg"/>
+<img alt="" src="https://www.portalsimmons.com.br/source/files/c/3326/Icone_D30-552591_80-80-0-0.jpg"/>
 </div>
 <div className="flex text-justify text-xs font-light gap-10">
 <p>Bamboo Touch</p> <p>Espuma de <br/> alta densidade</p> 

@@ -6,7 +6,7 @@ export function GeocitiesItem() {
         <div class="shrink-0 max-w-md lg:max-w-lg mx-auto">
         <div className="text-white bg-stone-900 rounded-lg w-auto m-4 px-3 absolute text-center"> Frete Grátis </div>
 
-          <img class="w-full dark:hidden" src="Geocities.png" alt="" />
+          <img class="w-full" src="Geocities.png" alt="" />
         </div>
 
         <div class="mt-6 sm:mt-8 lg:mt-0">
@@ -131,10 +131,10 @@ export function GeocitiesItem() {
 
           <div className="flex gap-10">
           <p className="pt-4">
-          <img alt="ANTIÁCARO" src="https://www.portalsimmons.com.br/source/files/c/75/ANTIACARO_80-29-0-0.jpg" title="ANTIÁCARO" />
+          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/75/ANTIACARO_80-29-0-0.jpg" title="" />
           </p>
           <p className="pt-4">
-          <img alt="Argentum (Simmons)" src="https://www.portalsimmons.com.br/source/files/c/296/Argentum_80-29-0-0.jpg" title="Argentum (Simmons)" />
+          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/296/Argentum_80-29-0-0.jpg" title="" />
           </p>
           <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3337/Icone_Pocketed-651617_80-80-0-0.jpg" title="" />
           </div>

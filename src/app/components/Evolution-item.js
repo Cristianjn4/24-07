@@ -6,7 +6,7 @@ export function EvolutionItem() {
         <div class="shrink-0 max-w-md lg:max-w-lg mx-auto">
         <div className="text-white bg-stone-900 rounded-lg w-auto m-4 px-3 absolute text-center"> Frete Grátis </div>
 
-          <img class="w-full dark:hidden" src="Evolution.png" alt="" />
+          <img class="w-full" src="Evolution.png" alt="" />
         </div>
 
         <div class="mt-6 sm:mt-8 lg:mt-0">
@@ -131,13 +131,13 @@ export function EvolutionItem() {
 
           <div className="flex gap-10">
           <p className="pt-4">
-          <img alt="ANTIÁCARO" src="https://www.portalsimmons.com.br/source/files/c/3322/Icone_Latex-483949_80-80-0-0.jpg" title="ANTIÁCARO" />
+          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3322/Icone_Latex-483949_80-80-0-0.jpg" title="" />
           </p>
           <p className="pt-4">
-          <img alt="Argentum (Simmons)" src="https://www.portalsimmons.com.br/source/files/c/3343/Icone_Belgian_design-836187_80-80-0-0.jpg" title="Argentum (Simmons)" />
+          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3343/Icone_Belgian_design-836187_80-80-0-0.jpg" title="" />
           </p>
           <p className="pt-4">
-          <img alt="Argentum (Simmons)" src="https://www.portalsimmons.com.br/source/files/c/3320/Icone_ViscoDryGel-568644_80-80-0-0.jpg" />
+          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3320/Icone_ViscoDryGel-568644_80-80-0-0.jpg" />
           </p>
           <img alt="" src="" title="" />
           </div>
