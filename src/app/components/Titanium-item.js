@@ -5,7 +5,7 @@ export function TitaniumItem() {
       <div class="lg:grid lg:grid-cols-2 lg:gap-8 xl:gap-16">
         <div class="shrink-0 max-w-md lg:max-w-lg mx-auto">
         <div className="text-white bg-stone-900 rounded-lg w-auto m-4 px-3 absolute text-center"> Frete Grátis </div>
-          <img class="w-full dark:hidden" src="Titanium.png" alt="" />
+          <img class="w-full" src="Titanium.png" alt="" />
         </div>
 
         <div class="mt-6 sm:mt-8 lg:mt-0">
@@ -120,9 +120,8 @@ export function TitaniumItem() {
               Solteiro (88x188) - Casal (138x188) - Queen (158x198) - King (198x203)
             </p>
             <br></br>
-            <p className="font-normal">
-            Consulte a disponibilidade da entrega em até 12h.
-                        </p>
+            <a className="font-normal underlide font-semibold" href="ENTREGA.pdf" target="blank">
+            Consulte a disponibilidade da entrega em até 12h. </a>
           </div>
 
           <hr class="my-6 md:my-8 border-gray-200 dark:border-gray-800" />

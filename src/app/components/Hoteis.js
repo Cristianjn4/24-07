@@ -7,26 +7,26 @@ export function Hoteis(){
             </h3>
 
             <div className=" w-full h-auto flex align justify-center py-10 gap-8 ">
-                <div className="bg-transparent w-40 rounded-full shadow-lg hover:opacity-30">
+                <div className="bg-transparent w-40 rounded-full shadow-lg ">
                     <img  src="https://cdn.worldvectorlogo.com/logos/walt-disney-world-resort.svg" alt="" className="bg-stone-800 w-36 h-36 rounded-full" />
                     <br/>
                     <a href="" className=" font-normal m-auto"> Walt Disney World </a>
                     
                 </div>
 
-                <div className="bg-transparent w-40 rounded-full shadow-lg hover:opacity-30">
+                <div className="bg-transparent w-40 rounded-full shadow-lg ">
                     <img src="https://play-lh.googleusercontent.com/K0-utLn_67RrR0zrmcLR72QPgJrpHEpSAfzA52f9htpnfOKUnhJNCGvn8ZTK2PbHIQ" alt="" className="bg-stone-800 w-36 h-36 rounded-full" />
                     <br/>
                     <a href="" className=" b-3 font-normal  text-center w-auto py-3"> Four Seasons </a>
                 </div>
 
-                <div className="bg-transparent w-40 rounded-full shadow-lg hover:opacity-30">
+                <div className="bg-transparent w-40 rounded-full shadow-lg ">
                     <img src="https://logowik.com/content/uploads/images/grand-hyatt9780.jpg" alt="" className="bg-stone-800 w-36 h-36 rounded-full" />
                     <br/>
                     <a href="https://pbs.twimg.com/profile_images/842004392874237952/_64zCNZ9_400x400.jpg" className="b-3 font-normal  text-center w-auto py-3"> Grand Hyatt </a>
                 </div>
 
-                <div className=" bg-transparent w-40 rounded-full shadow-lg hover:opacity-30">
+                <div className=" bg-transparent w-40 rounded-full shadow-lg ">
                     <img src="https://media-cdn.tripadvisor.com/media/photo-s/12/f7/5c/8d/grazielle-a.jpg" alt="" className="bg-stone-800 w-36 h-36 rounded-full" />
                     <br/>
                     <a href="" className="b-3 font-normal  text-center w-auto py-3"> Grand Palladium   </a>
@@ -34,7 +34,7 @@ export function Hoteis(){
                 </div>
 
                 
-                <div className=" bg-transparent w-40 rounded-full shadow-lg hover:opacity-30">
+                <div className=" bg-transparent w-40 rounded-full shadow-lg ">
                     <img src="https://cdn2.revistahoteis.com.br/wp-content/uploads/2018/05/iberostar.jpg" alt="" className="bg-stone-800 w-36 h-36 rounded-full" />
                     <br/>
                     <a href="" className="b-3 font-normal  text-center w-auto py-3"> Ibero Star   </a>
@@ -42,7 +42,7 @@ export function Hoteis(){
                 </div>
 
                 
-                <div className=" bg-transparent w-40 rounded-full shadow-lg hover:opacity-30">
+                <div className=" bg-transparent w-40 rounded-full shadow-lg ">
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WSTiCEKzAObaKjf8z7ZTWU-p9wJvcz7thA&s" alt="" className="bg-stone-800 w-36 h-36 rounded-full" />
                     <br/>
                     <a href="" className="b-3 font-normal  text-center w-auto py-3"> Hot Beach   </a>
@@ -72,8 +72,7 @@ export function Hoteis(){
                                 <br></br>
                                 <br></br>
 
-                                Bem-vindo à experiência de sono que você merece! Sabemos que uma boa noite de sono é essencial para uma vida saudável e produtiva. Imagine trazer a qualidade e o conforto dos melhores hotéis diretamente para o seu quarto. Com os colchões Simmons, você pode desfrutar desse conforto todas as noites, sem sair de casa.
-                            
+                                Os colchões Simmons são sinônimo de conforto e qualidade, proporcionando uma noite de sono perfeita. Presentes nos melhores hotéis do mundo, esses colchões são projetados com tecnologia avançada para oferecer suporte ideal e conforto incomparável. Experimente a excelência do sono com os colchões Simmons e sinta a diferença que faz estar no topo da indústria hoteleira.
 
 </p>
                         </div>  
