@@ -11,11 +11,11 @@ export function TrocaSolidaria(){
       </h3>
 
       <p className="hidden text-black pt-10 md:block">      
-      Conheça nossa campanha Troca Solidária
-      Pretende adquirir seu colchão, mas não sabe o que fazer com o antigo que ainda está em boas condições de uso? 
-      Temos a solução ideal para você! Um colchão com o conforto e a qualidade que só a Simmons Casa Orner pode proporcionar. 
-      Na campanha Troca Solidária em parceria com a <a href="https://www.instagram.com/cidadevicentina/" target="blank" className="font-semibold underline" > @cidadevicentina </a>
-      você ajuda o próximo doando seu colchão usado em boas condições e na compra de um novo você ganha <a className="font-semibold">10% em CASHBACK</a> para compras de móveis e decorações na Casa Orner em Itatiba.
+      Chegou a hora de trocar seu colchão, mas não sabe o que fazer com o antigo que ainda está em boas condições de uso? Temos a solução ideal para você! 
+      Um colchão com o conforto e a qualidade que só a Simmons Casa Orner pode proporcionar. Na campanha Troca Solidária em parceria com a
+      <a href="https://www.instagram.com/cidadevicentina/" target="blank" className="font-semibold underline" > @cidadevicentina </a>
+      você ajuda o próximo doando seu colchão usado em boas condições e na compra de um novo você ganha <a className="font-semibold">10% em CASHBACK</a> 
+      para compras de móveis e decorações na Casa Orner em Itatiba.
     </p>
 
       <div className="mt-4 md:mt-8">

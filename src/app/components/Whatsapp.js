@@ -3,8 +3,8 @@ export function Whatsicon() {
         <div>
             <a href="/contact#contact">
             <buttom aria-controls="dropdown-example" data-collapse-toggle="dropdown-example" className="flex fixed items-centerw-10 z-20 justify-between bottom-8 right-8">
-            <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500  left-14">
-            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-500 opacity-75"></span></span>
+            <span class="relative inline-flex rounded-full h-3 w-3 bg-red-600  left-14">
+            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-600 opacity-75"></span></span>
             <div className="bg-gradient-to-r from-[#2eda50] to-lime-500 w-12 h-12 rounded-full align items-center" alt="Entre em contato pelo Whatsapp">
             <svg
                             className=" m-auto h-full p-2 text-white"

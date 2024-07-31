@@ -6,15 +6,15 @@ export default function Header() {
 
         <div>
             <div className="">
-            <div className="w-full max-w-[1246] px-[20px] mx-auto gi">
+            <div className="w-full max-w-[1246] px-[20px] mx-auto">
             <div className="flex items-center justify-between ">
                 
                 <div className="flex items-center gap-10 text-white">
                     <a href="/">
-                    <img className="w-12" src="Slogo.png"></img>
+                    <img className="w-12 visible md:invisible" src="Slogo.png"></img>
                     </a>
 
-                    <ul className="flex items-center gap-12  ">
+                    <ul className="flex items-center gap-12 visible md:invisible sm:invisible">
 
                     <li>
                     <a href="/" className="flex items-center gap-3 rounded-b-sm hover:border-b-2 hover:focus:font-bold ">Home</a>
@@ -41,10 +41,10 @@ export default function Header() {
                 </div>
                  
 
-                <div className="flex items-center gap-3 pr-36">
+                <div className="flex items-center gap-3 pr-36 ">
                 <Search>
                 </Search>
-                    <button className="pr-3">
+                    <button className="pr-3 visible md:invisible sm:hidden">
                     <span>
                     <svg className="h-5 w-5 text-white"  fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
@@ -63,6 +63,8 @@ export default function Header() {
             </div>
         </div>
             </div>
+
+        
 
         
 
@@ -136,9 +138,9 @@ export default function Header() {
 
 
 
-        </div>
+        </div> 
+            </header>
 
-        
-    </header>
+
     )
 }

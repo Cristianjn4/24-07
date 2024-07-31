@@ -14,6 +14,7 @@ import { Lojas } from "./components/Lojas";
 import { Hoteis } from "./components/Hoteis";
 import { TrocaSolidaria } from "./components/TrocaSolidaria";
 import {Duvidas} from "./components/Duvidas";
+import {GaleriaHome} from "./components/Galeria-Home";
 
 export default function Home() {
   return(
@@ -30,6 +31,7 @@ export default function Home() {
       <VideoFull/>
       <Depoimentos/>
       <TrocaSolidaria/>
+      <GaleriaHome/>
       <Duvidas/>
       <Footer/>
     </>
