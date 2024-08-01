@@ -4,7 +4,7 @@ export function Contact() {
 
 
             
-        <section id="#contact" class="bg-white dark:bg-white py-20">
+        <section id="contact" class="bg-white dark:bg-white">
         <div class="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
             <h2 class="mb-4 text-4xl tracking-tight font-bold text-center text-gray-900 dark:text-black">Entre em contato</h2>
             <p class="mb-8 lg:mb-16 font-regular text-center text-gray-500 dark:text-black sm:text-base">Encontrou algum problema técnico? Deseja enviar alguma sujestão ou feedback? Precisa de detalhes sobre o funcionamento ou ajuda? Conte para nós através de nosso email.</p>
@@ -35,7 +35,8 @@ export function Contact() {
                 </buttom>
             </form>
 
-            <h2 id="contact" class="mb-4 text-4xl tracking-tight font-bold text-center text-gray-900 dark:text-black mt-10">Fale Conosco</h2>
+        <section id="fale">
+        <h2 class="mb-4 text-4xl tracking-tight font-bold text-center text-gray-900 dark:text-black mt-10">Fale Conosco</h2>
             <p class="mb-8 lg:mb-16 font-regular text-center text-gray-500 dark:text-black sm:text-base"> 
                 Entre em contato com nossos times em Jundiaí e Itatiba. 
                 <br></br>
@@ -82,6 +83,9 @@ export function Contact() {
 
                             </p>
                         </div>  
+        </section>
+
+            
         </div>
         </section>
         </div>

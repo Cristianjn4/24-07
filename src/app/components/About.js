@@ -5,7 +5,7 @@ export function About(){
         
         
 
-        <section className="py-14 lg:py-24 relative">
+        <section className="pb-10 lg:py-10 relative">
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 relative ">
             <div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-9 ">
 
@@ -35,7 +35,7 @@ export function About(){
         </div>
         </section>
 
-        <section class="py-14 lg:py-24 relative">
+        <section class="py-8 lg:py-8 relative">
         <div class="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 relative ">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-9">
                 <div class="img-box">

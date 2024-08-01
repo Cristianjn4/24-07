@@ -1,7 +1,7 @@
 export function Whatsicon() {
     return(
         <div>
-            <a href="/contact#contact">
+            <a href="/faq#fale">
             <buttom aria-controls="dropdown-example" data-collapse-toggle="dropdown-example" className="flex fixed items-centerw-10 z-20 justify-between bottom-8 right-8">
             <span class="relative inline-flex rounded-full h-3 w-3 bg-red-600  left-14">
             <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-600 opacity-75"></span></span>
