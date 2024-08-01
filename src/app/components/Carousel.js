@@ -9,7 +9,7 @@ export function Carousel(){
     return(
 
 
-        <div id="indicators-carousel" className="relative h-full z-0 pt-10" data-carousel="static">
+        <div id="indicators-carousel" className="relative h-full z-0 pt-10 hidden lg:block md:block" data-carousel="static">
         {/* Carousel wrapper */}
         <div class="relative overflow-hidden md:h-96">
             {/* Item 1 */}

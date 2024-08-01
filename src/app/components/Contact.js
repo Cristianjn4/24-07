@@ -1,7 +1,7 @@
 export function Contact() {
     return(
         <div>
-                     
+
         <section id="contact" class="bg-white dark:bg-white">
         <div class="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
             <h2 class="mb-4 text-4xl tracking-tight font-bold text-center text-gray-900 dark:text-black">Entre em contato</h2>
@@ -45,7 +45,7 @@ export function Contact() {
             </div>
                
             <div className="w-auto h-auto m-auto gap bg-white rounded-2xl justify-between">
-                            <p className=" text-black/100 align justify-center p-4 font-extralight flex gap-8">
+                            <p className=" text-black/100 align justify-center p-4 font-extralight block md:flex lg:flex gap-8">
                                 
                             <div className="mt-2 md:mt-4">
                             <a

@@ -21,7 +21,7 @@ export function TrocaSolidaria(){
       <div className="mt-4 md:mt-8">
         <a
           href="TROCA SOLIDARIA.pdf" target="blank"
-          className="inline-block rounded-full bg-black px-10 py-3 text-sm font-medium text-white transition hover:bg-white hover:text-black border hover:border-black hover:font-medium focus:outline-none">
+          className="inline-block rounded-full bg-black px-10 py-3 text-xs font-medium text-white transition hover:bg-white hover:text-black border hover:border-black hover:font-medium focus:outline-none">
           📄 Consulte nosso regulamento
         </a>
       </div>
@@ -31,7 +31,7 @@ export function TrocaSolidaria(){
   <img
     alt=""
     src="banner troca.png"
-    className="w-full h-[450px] object-cover"
+    className="w-auto object-cover"
   />
 </section>
     )}

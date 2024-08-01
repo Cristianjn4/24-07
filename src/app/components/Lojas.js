@@ -2,10 +2,10 @@
 export function Lojas(){
     return(
  
-<section className="overflow-hidden  bg-gradient-to-t from-white to-neutral-100 ">
+<section className="overflow-hidden  bg-gradient-to-t from-white to-neutral-100 hidden lg:flex">
 
 
-<section className="sm:grid sm:grid-cols-2 sm:items-center mr-40 ml-40">
+<section className="sm:grid sm:grid-cols-2 sm:items-center mr-40 ml-40 ">
   
 
   <div  className="p-5 md:p-12 lg:px-16 lg:py-24">

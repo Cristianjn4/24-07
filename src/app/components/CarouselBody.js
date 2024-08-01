@@ -3,8 +3,8 @@ export function CarouselBody(){
             <div>   
 
             <div className="w-full h-auto text-black  bg-gradient-to-b from-neutral-300 to-white  align justify-center text-center py-11 gap-8">
-                <p className="text-4xl font-bold align items-center text-center">
-                Presente em mais de 100 países
+                <p className="text-3xl px-10 lg:text-4xl font-bold align items-center text-center">
+                Presente em mais de 100 países 🌍
                 </p>
                 <p className="hidden text-lg w-auto mx-10 pt-4 md:block">
                 {/*Simmons é uma marca tradicionalmente reconhecida pela sua qualidade e tecnologia, atuando por mais de um século no mercado.
@@ -18,11 +18,11 @@ export function CarouselBody(){
                 </p>
             </div>
 
-            <div id="indicators-carousel" className=" relative h-full z-0" data-carousel="static">
+            <div id="indicators-carousel" className=" relative h-full z-0 hidden lg:block" data-carousel="static">
             {/* Carousel wrapper */}
 
             
-            <div class="relative overflow-hidden md:h-96">
+            <div class="relative md:h-96">
                 {/* Item 1 */}
                 <div className="hidden duration-700 ease-in-out" data-carousel-item="active">
                 <img className="w-full" src="banner-1.png" alt='carousel'/>

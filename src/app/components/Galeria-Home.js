@@ -2,15 +2,15 @@ export function GaleriaHome() {
     return(
             <div className="bg-gradient-radial from-purple-700 to-orange-500 w-full h-auto ">
 
-                <div className="w-full h-auto text-white align justify-center text-center pt-20 ">
+                <div className="w-full h-auto text-white align justify-center text-center pt-10 px-2">
                 <p className="text-4xl font-bold align items-center text-center">
                 Simmons na mídia
                 </p>
 
-                <p className="hidden text-lg w-auto mx-10 pt-4 md:block mb-20">
+                <p className="hidden text-lg w-auto mx-10 pt-4">
                 Simmons é conhecida pela qualidade e referência internacional de seus colchões sendo pioneira em muitas tecnologias.              
                 </p>
-                <div class="w-96 bg-white flex flex-col rounded-xl m-auto">
+                <div class="w-96 bg-white mt-20 flex-col rounded-xl m-auto hidden lg:block md:block">
                             <div class="flex flex-col items-center pb-4 ">
                             <img src="logoR.png" class="w-36 h-36 ring-2 ring-blue-800 hover:ring-4 hover:ring-pink-500 rounded-full shadow-lg -mt-12" />
                             <div class="font-bold tracking-wide text-gray-800 text-xl p-2">simmons.caraorner</div>
