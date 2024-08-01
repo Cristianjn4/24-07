@@ -1,9 +1,7 @@
 export function Contact() {
     return(
         <div>
-
-
-            
+                     
         <section id="contact" class="bg-white dark:bg-white">
         <div class="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
             <h2 class="mb-4 text-4xl tracking-tight font-bold text-center text-gray-900 dark:text-black">Entre em contato</h2>

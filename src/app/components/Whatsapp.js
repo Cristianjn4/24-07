@@ -3,8 +3,8 @@ export function Whatsicon() {
         <div>
             <a href="/faq#fale">
             <buttom aria-controls="dropdown-example" data-collapse-toggle="dropdown-example" className="flex fixed items-centerw-10 z-20 justify-between bottom-8 right-8">
-            <span class="relative inline-flex rounded-full h-3 w-3 bg-red-600  left-14">
-            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-600 opacity-75"></span></span>
+            <span class="relative inline-flex rounded-full h-3 w-3 bg-red-600  left-14"></span>
+            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-600 opacity-75"></span>
             <div className="bg-gradient-to-r from-[#2eda50] to-lime-500 w-12 h-12 rounded-full align items-center" alt="Entre em contato pelo Whatsapp">
             <svg
                             className=" m-auto h-full p-2 text-white"
@@ -16,19 +16,7 @@ export function Whatsicon() {
             </svg>
             </div>
             </buttom>
-            {/*
-            <ul id="dropdown-example" class="hidden py-2 space-y-2">
-                  <li>
-                     <a href="#" class="flex items-center w-full p-2 text-gray-900 transition duration-75 rounded-lg pl-11 group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700">Products</a>
-                  </li>
-                  <li>
-                     <a href="#" class="flex items-center w-full p-2 text-gray-900 transition duration-75 rounded-lg pl-11 group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700">Billing</a>
-                  </li>
-                  <li>
-                     <a href="#" class="flex items-center w-full p-2 text-gray-900 transition duration-75 rounded-lg pl-11 group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700">Invoice</a>
-                  </li>
-            </ul>
-            */}
+           
             </a>
         </div>
 
