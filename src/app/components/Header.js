@@ -26,11 +26,11 @@ export default function Header() {
                     </li>
 
                     <li>
-                        <a href="/contact" className="flex items-center gap-3 rounded-b-sm hover:border-b-2 hover:focus:font-bold">Fale Conosco</a>
+                        <a href="/faq" className="flex items-center gap-3 rounded-b-sm hover:border-b-2 hover:focus:font-bold">FAQ</a>
                     </li>
                     
                     <li>
-                        <a href="/faq" className="flex items-center gap-3 rounded-b-sm hover:border-b-2 hover:focus:font-bold">FAQ</a>
+                        <a href="/faq#contact" className="flex items-center gap-3 rounded-b-sm hover:border-b-2 hover:focus:font-bold">Fale Conosco</a>
                     </li>
 
                     <li>

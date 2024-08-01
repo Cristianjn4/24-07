@@ -13,7 +13,7 @@ export function Lojas(){
 
     <img
     alt=""
-    src="jundiai-loja.jpeg"
+    src="jundiai_loja.png"
     className="w-[450px] h-[450px] object-cover m-auto rounded-md"
     />
       <h3 className="text-2xl font-bold mt-4 text-gray-900 md:text-3xl">

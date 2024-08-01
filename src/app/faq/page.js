@@ -1,6 +1,6 @@
 "use client"
 
-import { BaseSection } from "../components/BaseSection";
+import { Contact } from "../components/Contact";
 import { Duvidas } from "../components/Duvidas";
 import { Alerts } from "../components/Alerts";
 import { Carousel } from "../components/Carousel";
@@ -20,6 +20,7 @@ export default function (){
       <Carousel/>
       <About/>
       <FAQ/>
+      <Contact/>
       <Duvidas/>
       <Footer/>
     </>

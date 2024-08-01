@@ -19,28 +19,28 @@ export function Lista() {
     <div class="border-b border-gray-200 justify-center bg-white w-full">
       <nav class="-mb-px flex gap-6 justify-center pt-20 m-auto" aria-label="Tabs">
         <a
-          href="#"
+          href="#colchoes"
           class="shrink-0 border-b-2 border-transparent px-1 pb-4 text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700 focus:border-stone-900 focus:text-stone-900 focus:font-bold"
         >
           Colchões
         </a>
 
         <a
-          href="#"
+          href="#camas"
           class="shrink-0 border-b-2 border-transparent px-1 pb-4 text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700 focus:border-stone-900 focus:text-stone-900 focus:font-bold"
         >
           Camas
         </a>
 
         <a
-          href="#"
+          href="travesseiros"
           class="shrink-0 border-b-2 border-transparent px-1 pb-4 text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700 focus:border-stone-900 focus:text-stone-900 focus:font-bold"
         >
           Travesseiros
         </a>
 
         <a
-          href="#"
+          href="acessorios"
           class="shrink-0 border-b-2 border-transparent px-1 pb-4 text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700 focus:border-stone-900 focus:text-stone-900 focus:font-bold"
           aria-current="page"
         >
@@ -51,11 +51,8 @@ export function Lista() {
   </div>
 </div>
 
-        <div className="mx-auto max-w-2xl px-4  sm:px-6 sm:py-10 lg:max-w-7xl lg:px-2">
-          <h2 className="sr-only">Products</h2>
-      
-        
-
+        <div id="colchoes" className="mx-auto max-w-2xl px-4  sm:px-6 sm:py-10 lg:max-w-7xl lg:px-2">
+              
           <div className="grid grid-cols-1 gap-x-10 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8 m-24 ">
 
             {/** Geocities */}
