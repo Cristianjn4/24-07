@@ -2,7 +2,7 @@ import Search from "./Search";
 
 export default function Header() {
     return(
-        <header className="text-sm fixed item-center w-full pt-8 h-32 z-10">
+        <header className="text-sm fixed item-center w-full pt-6 h-32 z-10">
 
         <div>
             <div className="hidden lg:block md:block bg-gradient-to-b from-stone-800 to-transparent">

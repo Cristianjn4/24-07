@@ -6,7 +6,7 @@ export default function Footer() {
                 <div className="mb-6 md:mb-0">
                     <img src="logoW.png" className="w-40 h-auto" ></img>
                 </div>
-                <div className="grid grid-cols-3 gap-10 hidden lg:block">
+                <div className=" grid-cols-3 gap-10 hidden lg:grid">
                     <div className="">
                 
                         <h2 className="flex mb-6 text-sm font-semibold text-white uppercase">

@@ -11,7 +11,7 @@ export function Carousel(){
 
         <div id="indicators-carousel" className="relative h-full z-0 pt-10 hidden lg:block md:block" data-carousel="static">
         {/* Carousel wrapper */}
-        <div class="relative overflow-hidden md:h-96">
+        <div class="relative overflow-hidden sm:h-auto md:h-96">
             {/* Item 1 */}
             <div className="hidden duration-700 ease-in-out" data-carousel-item="active">
                 <video className="w-full " src="./banner-rotativo-1.mp4" type="video.mp4" autoPlay muted loop></video>            
