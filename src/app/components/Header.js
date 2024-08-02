@@ -2,10 +2,10 @@ import Search from "./Search";
 
 export default function Header() {
     return(
-        <header className="text-sm fixed item-center w-full pt-8 h-32  z-20">
+        <header className="text-sm fixed item-center w-full pt-8 h-32 z-10">
 
         <div>
-            <div className="hidden lg:block bg-gradient-to-b from-stone-800 to-transparent">
+            <div className="hidden lg:block md:block bg-gradient-to-b from-stone-800 to-transparent">
             <div className="w-full max-w-[1246] px-[20px] mx-auto">
             <div className="flex items-center justify-between ">
                 
@@ -66,7 +66,7 @@ export default function Header() {
 
         {/* NAVBAR MOBILE */}
 
-      <div className="lg:hidden">
+      <div className="lg:hidden md:hidden z-40">
 
 
       <button data-drawer-target="default-sidebar" data-drawer-toggle="default-sidebar" aria-controls="default-sidebar" type="button" class="inline-flex items-center p-2 mt-2 ms-3 text-sm text-gray-500 rounded-lg sm:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600">
@@ -101,25 +101,21 @@ export default function Header() {
          </li>
          <li>
             <a href="/faq#contact" class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">
-              
                <span class="flex-1 ms-3 whitespace-nowrap">Fale Conosco</span>
             </a>
          </li>
          <li>
-            <a href="https://maps.app.goo.gl/uWnhSWwpoMRuvjeF6" class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">
-             
+            <a href="https://maps.app.goo.gl/uWnhSWwpoMRuvjeF6" class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">             
                <span class="flex-1 ms-3 whitespace-nowrap">Chegue até nós</span>
             </a>
          </li>
          <li>
-            <a href="#" class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">
-             
+            <a href="#" class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">             
                <span class="flex-1 ms-3 whitespace-nowrap">Econtre seu colchão ideal</span>
             </a>
          </li>
          <li>
-            <a href="#" class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">
-           
+            <a href="#" class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">           
                <span class="flex-1 ms-3 whitespace-nowrap">Localizar minha entrega</span>
             </a>
          </li>

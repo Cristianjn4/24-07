@@ -6,8 +6,8 @@ export default function Footer() {
                 <div className="mb-6 md:mb-0">
                     <img src="logoW.png" className="w-40 h-auto" ></img>
                 </div>
-                <div className="grid grid-cols-3 gap-10 ">
-                    <div>
+                <div className="grid grid-cols-3 gap-10 hidden lg:block">
+                    <div className="">
                 
                         <h2 className="flex mb-6 text-sm font-semibold text-white uppercase">
                             <svg class="h-5 w-5 pr-1 text-white flex"  fill="none" viewBox="0 0 24 24" stroke="currentColor">

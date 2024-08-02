@@ -4,18 +4,10 @@ export function Lista() {
 
 
 <div>
-  <div class="sm:hidden">
-    <label for="Tab" class="sr-only">Tab</label>
+  
+  
 
-    <select id="Tab" class="w-full rounded-md border-gray-200">
-      <option>Settings</option>
-      <option>Messages</option>
-      <option>Archive</option>
-      <option select>Notifications</option>
-    </select>
-  </div>
-
-  <div class="hidden sm:block ">
+  <div class="">
     <div class="border-b border-gray-200 justify-center bg-white w-full">
       <nav class="-mb-px flex gap-6 justify-center pt-20 m-auto" aria-label="Tabs">
         <a
@@ -51,7 +43,7 @@ export function Lista() {
   </div>
 </div>
 
-        <div id="colchoes" className="mx-auto max-w-2xl px-4  sm:px-6 sm:py-10 lg:max-w-7xl lg:px-2">
+        <div id="colchoes" className="mx-auto max-w-2xl px-4  sm:px-4 sm:py-10 lg:max-w-7xl lg:px-2">
               
           <div className="grid grid-cols-1 gap-x-10 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8 m-24 ">
 
