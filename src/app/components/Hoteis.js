@@ -2,31 +2,30 @@ export function Hoteis(){
     return(
         <div className="w-full h-auto text-white  bg-gradient-to-t from-[#000000] to-[#1E1E1E]  align justify-center text-center py-11 gap-8">
 
-            <h3 className="text-2xl font-semibold md:text-3xl  align text-center">
+            <h3 className="text-2xl font-semibold md:text-3xl  align text-center mb-8">
             Conheça os Hotéis by Simmons
             </h3>
 
-            <div className=" w-full h-auto block align justify-center py-10 gap-8 lg:flex md:flex ">
-                <div className="bg-transparent w-40 rounded-full shadow-lg m-auto mb-2 ">
+            <div className=" w-full h-auto block align justify-center gap-8 lg:flex md:flex ">
+                <div className="bg-transparent w-40 rounded-full shadow-lg m-auto mb-2 py-3">
                     <img  src="https://cdn.worldvectorlogo.com/logos/walt-disney-world-resort.svg" alt="" className="bg-stone-800 w-36 h-36 rounded-full" />
                     <br/>
                     <a href="" className=" font-normal m-auto"> Walt Disney World </a>
-                    
                 </div>
 
-                <div className="bg-transparent w-40 rounded-full shadow-lg m-auto mb-2 ">
+                <div className="bg-transparent w-40 rounded-full shadow-lg m-auto mb-2 py-3">
                     <img src="https://play-lh.googleusercontent.com/K0-utLn_67RrR0zrmcLR72QPgJrpHEpSAfzA52f9htpnfOKUnhJNCGvn8ZTK2PbHIQ" alt="" className="bg-stone-800 w-36 h-36 rounded-full" />
                     <br/>
                     <a href="" className=" b-3 font-normal  text-center w-auto py-3"> Four Seasons </a>
                 </div>
 
-                <div className="bg-transparent w-40 rounded-full shadow-lg m-auto mb-2 ">
+                <div className="bg-transparent w-40 rounded-full shadow-lg m-auto mb-2 py-3">
                     <img src="https://logowik.com/content/uploads/images/grand-hyatt9780.jpg" alt="" className="bg-stone-800 w-36 h-36 rounded-full" />
                     <br/>
                     <a href="https://pbs.twimg.com/profile_images/842004392874237952/_64zCNZ9_400x400.jpg" className="b-3 font-normal  text-center w-auto py-3"> Grand Hyatt </a>
                 </div>
 
-                <div className=" bg-transparent w-40 rounded-full shadow-lg m-auto mb-2 ">
+                <div className=" bg-transparent w-40 rounded-full shadow-lg m-auto mb-2 py-3">
                     <img src="https://media-cdn.tripadvisor.com/media/photo-s/12/f7/5c/8d/grazielle-a.jpg" alt="" className="bg-stone-800 w-36 h-36 rounded-full" />
                     <br/>
                     <a href="" className="b-3 font-normal  text-center w-auto py-3"> Grand Palladium   </a>
@@ -34,7 +33,7 @@ export function Hoteis(){
                 </div>
 
                 
-                <div className=" bg-transparent w-40 rounded-full shadow-lg m-auto mb-2 ">
+                <div className=" bg-transparent w-40 rounded-full shadow-lg m-auto mb-2 py-3">
                     <img src="https://cdn2.revistahoteis.com.br/wp-content/uploads/2018/05/iberostar.jpg" alt="" className="bg-stone-800 w-36 h-36 rounded-full" />
                     <br/>
                     <a href="" className="b-3 font-normal  text-center w-auto py-3"> Ibero Star   </a>
@@ -42,7 +41,7 @@ export function Hoteis(){
                 </div>
 
                 
-                <div className=" bg-transparent w-40 rounded-full shadow-lg m-auto mb-2 ">
+                <div className=" bg-transparent w-40 rounded-full shadow-lg m-auto mb-2 py-3">
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WSTiCEKzAObaKjf8z7ZTWU-p9wJvcz7thA&s" alt="" className="bg-stone-800 w-36 h-36 rounded-full" />
                     <br/>
                     <a href="" className="b-3 font-normal  text-center w-auto py-3"> Hot Beach   </a>
