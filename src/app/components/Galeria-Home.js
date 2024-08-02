@@ -31,7 +31,7 @@ export function GaleriaHome() {
 
                 <div className="mt-4 md:mt-8">
                     <buttom
-                    href="#"
+                    href="https://www.instagram.com/simmons.casaorner/"
                     className="inline-block lg:hidden md:hidden rounded-full bg-white px-10 py-3 text-sm font-medium text-black transition hover:bg-transparent hover:text-white border hover:border-white hover:font-medium focus:outline-none">
                     <p className="flex gap-1 items-center">
                     <svg className="w-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
