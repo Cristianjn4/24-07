@@ -34,7 +34,7 @@ export function Lojas(){
                                 </svg>
                             </span>
                     </summary>
-                    <iframe className="shadow-2xl absolute ml-10 mt-10 w-96 h-96 border-none rounded-xl " src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.7125719811884!2d-46.90753882720573!3d-23.18068830142321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf25e406c14bb5%3A0x42f603ee61615b50!2sSIMMONS%20R.%20Do%20Retiro%20%7C%20Loja%20de%20colch%C3%B5es%20Grupo%20Casa%20Orner!5e0!3m2!1spt-BR!2sbr!4v1721054854193!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe className="shadow-2xl absolute mt-10 w-96 h-96 border-none rounded-xl " src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.7125719811884!2d-46.90753882720573!3d-23.18068830142321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf25e406c14bb5%3A0x42f603ee61615b50!2sSIMMONS%20R.%20Do%20Retiro%20%7C%20Loja%20de%20colch%C3%B5es%20Grupo%20Casa%20Orner!5e0!3m2!1spt-BR!2sbr!4v1721054854193!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     
                 </details>
                 <div className="mt-4 md:mt-8">
@@ -77,7 +77,7 @@ export function Lojas(){
                                 </svg>
                             </span>
                     </summary>
-                    <iframe className="shadow-2xl absolute border-none rounded-xl ml-20 mt-10 w-96 h-96" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.314986721903!2d-46.8429668!3d-23.012204099999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf276e1d135f83%3A0x4a25929258ead495!2sCasa%20Orner!5e0!3m2!1spt-BR!2sbr!4v1721054703457!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe className="shadow-2xl absolute border-none rounded-xl ml-10 mt-10 w-96 h-96" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.314986721903!2d-46.8429668!3d-23.012204099999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf276e1d135f83%3A0x4a25929258ead495!2sCasa%20Orner!5e0!3m2!1spt-BR!2sbr!4v1721054703457!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                   
                 </details>
                 <div className="mt-4 md:mt-8">
