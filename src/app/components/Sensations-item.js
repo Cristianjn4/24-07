@@ -24,7 +24,7 @@ export function SensationsItem() {
               <div class="flex items-center gap-1">
 
                 <p className="font-extrabold">
-                  1 2
+                1 2
                 </p>
                 <p className="font-extrabold text-gray-400 ">
                 3 4 5
@@ -35,7 +35,7 @@ export function SensationsItem() {
               <p
                 class="text-sm font-medium leading-none text-gray-500 dark:text-gray-400"
               > 
-                (série - 1)
+                (série - 2)
               </p>
       
             </div>

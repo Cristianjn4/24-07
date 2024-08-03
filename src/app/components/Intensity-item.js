@@ -130,13 +130,20 @@ export function IntensityItem() {
 <div className="flex gap-10">
 <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3322/Icone_Latex-483949_80-80-0-0.jpg" />
 <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3321/Icone_Visco-776069_80-80-0-0.jpg"/>
+</div>
+<p>&nbsp;</p>
+<div className="flex text-justify text-xs font-light gap-10">
+<p>Látex</p> <p>Top Visco <br/> inside</p> 
+</div>
+<p>&nbsp;</p>
+
+<div className="flex gap-10">
 <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3320/Icone_ViscoDryGel-568644_80-80-0-0.jpg" />
 <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3343/Icone_Belgian_design-836187_80-80-0-0.jpg" />
 </div>
 <p>&nbsp;</p>
-
 <div className="flex text-justify text-xs font-light gap-10">
-<p>Látex</p> <p>Top Visco <br/> inside</p> <p>Visco Dry Gel</p> <p>Belgian Design</p>
+<p>Visco Dry Gel</p> <p>Belgian Design</p>
 </div>
 <p>&nbsp;</p>
 

@@ -6,7 +6,7 @@ export default function FAQ() {
             
         <div className=" w-full h-auto bg-white px-6 pt-10  pb-8 shadow-xl ring-1 ring-gray-900/5 sm:mx-auto sm:max-w-2xl sm:rounded-2xl sm:px-10">
     <div className="mx-auto px-5">
-        <div className="text-black flex text-black flex-col items-center">
+        <div className="text-black flex flex-col items-center">
             <h2 className="mt-5 text-center text-3xl font-bold tracking-tight md:text-5xl">FAQ</h2>
             <p className="mt-3 font-light text-lg text-neutral-500 md:text-xl">Perguntas Frequentes</p> 
             <br/>

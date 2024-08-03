@@ -8,7 +8,7 @@ export function GaleriaHome() {
                 </p>
 
                 <p className=" text-lg w-auto mx-10 pt-4">
-                Simmons é conhecida pela qualidade e referência internacional de seus colchões sendo pioneira em muitas tecnologias.              
+                Simmons é conhecida pela qualidade e referência internacional, conheça algumas personalidades famosas que aprovam os benefícios que só a Simmons pode oferecer             
                 </p>
                 <div class="w-96 bg-white mt-20 flex-col rounded-xl m-auto hidden lg:block md:block">
                             <div class="flex flex-col items-center pb-4 ">

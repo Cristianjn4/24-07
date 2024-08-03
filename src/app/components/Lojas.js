@@ -38,13 +38,13 @@ export function Lojas(){
                     
                 </details>
                 <div className="mt-4 md:mt-8">
-                    <buttom
+                    <a
                     href="https://www.google.com/maps/place/R.+do+Retiro,+1800+-+Jardim+Paris,+Jundia%C3%AD+-+SP,+13209-201/@-23.1806883,-46.9055003,17z/data=!4m6!3m5!1s0x94cf25d55fe1f14b:0xba862ef8910a9809!8m2!3d-23.1806933!4d-46.9029254!16s%2Fg%2F11c5mltkk5?entry=ttuttps://github.com/themesberg/flowbite"
                     className="inline-block lg:hidden md:hidden rounded-full bg-transparent px-10 py-3 text-sm font-medium border-black text-black transition hover:bg-black hover:text-white border hover:border-white hover:font-medium focus:outline-none">
                     <p className="flex gap-1 items-center">
-                    📌 R. Luíz Scavone, 511, Itatiba-SP
+                    📌 Rua do Retiro nº1800, Jundiaí-SP
                     </p> 
-                    </buttom>
+                    </a>
                 </div>
             </div>
       </div>
@@ -81,13 +81,13 @@ export function Lojas(){
                   
                 </details>
                 <div className="mt-4 md:mt-8">
-                    <buttom
+                    <a
                     href="https://www.google.com/maps/place/Casa+Orner/@-23.0122041,-46.8429668,17z/data=!3m1!4b1!4m6!3m5!1s0x94cf276e1d135f83:0x4a25929258ead495!8m2!3d-23.0122041!4d-46.8429668!16s%2Fg%2F11h197jndx?entry=ttu"
                     className="inline-block lg:hidden md:hidden rounded-full bg-transparent px-10 py-3 text-sm font-medium border-black text-black transition hover:bg-black hover:text-white border hover:border-white hover:font-medium focus:outline-none">
                     <p className="flex gap-1 items-center">
                     📌 R. Luíz Scavone, 511, Itatiba-SP
                     </p> 
-                    </buttom>
+                    </a>
                 </div>
             </div>
             </div>

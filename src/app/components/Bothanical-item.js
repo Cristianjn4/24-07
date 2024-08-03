@@ -121,7 +121,7 @@ export function BothanicalItem() {
               Solteiro (88x188) - Casal (138x188) - Queen (158x198) - King (198x203)
             </p>
             <br></br>
-            <a className="font-normal underlide font-semibold" href="ENTREGA.pdf" target="blank">
+            <a className=" underlide font-semibold" href="ENTREGA.pdf" target="blank">
             Consulte a disponibilidade da entrega em até 12h. </a>
           </div>
 
@@ -129,28 +129,32 @@ export function BothanicalItem() {
 
           <p class="mb-6 text-gray-500">
 
+          <p>&nbsp;</p>
           <div className="flex gap-10">
-          <p className="pt-4">
           <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3344/Icone_Memosense-663036_80-80-0-0.jpg" />
-          </p>
-          <p className="pt-4">
           <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3832/IconeZeeflex_copiar-482571_80-80-0-0.jpg"  />
-          </p>
-          <p className="pt-4">
           <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3829/IconeCoreon-594968_80-80-0-0.jpg" />
-          </p>
-          <p className="pt-4">
-          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3831/Viscose_de_Bamboo-475992_80-80-0-0.jpg" />
-          </p>
-          <p className="pt-4">
-          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3322/Icone_Latex-483949_80-80-0-0.jpg" />
-          </p>
-          <p className="pt-4">
-          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3320/Icone_ViscoDryGel-568644_80-80-0-0.jpg" />
-          </p>
+
           </div>
+          <p>&nbsp;</p>
           <div className="flex text-justify text-xs font-light gap-10">
-          <p>MemoSense® <br/> System</p> <p>ZeeFlex</p> <p>Nanotecnologia <br/> Coreon</p> <p>Viscose <br/> de Bambu</p> <p>Látex</p> <p>Visco <br/> Dry Gel</p>
+          <p>MemoSense® <br/> System</p> <p>ZeeFlex</p> <p>Nanotecnologia <br/> Coreon</p> 
+          </div>
+          <p>&nbsp;</p>
+
+          <div className="flex gap-10">
+          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3831/Viscose_de_Bamboo-475992_80-80-0-0.jpg" />
+          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3322/Icone_Latex-483949_80-80-0-0.jpg" />
+          <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3320/Icone_ViscoDryGel-568644_80-80-0-0.jpg" />
+          </div>
+          <p>&nbsp;</p>
+          <div className="flex text-justify text-xs font-light gap-20">
+          <p>Viscose <br/> de Bambu</p> <p>Látex</p> <p>Visco <br/> Dry Gel</p>
+          </div>
+          <p>&nbsp;</p>
+
+          <div className="flex text-justify text-xs font-light gap-10">
+          
           </div>
           <p>&nbsp;</p>
 
