@@ -118,8 +118,59 @@ Diferencial em tecnologia
 {/*CARACTERISTICAS*/}
 
 <div className="w-full">
+<section className="absolute right-28 mt-10 z-20">
+<div className="flex mt-6 gap-2">
+            <a
+                target="blank"
+                title=""
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-transparent hover:border-white hover:text-white focus:z-10 focus:ring-4 focus:ring-gray-100"
+                role="button"
+              >
+      
+                Solteiro
+            </a>
+            <a
+                target="blank"
+                title=""
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-transparent hover:border-white hover:text-white focus:z-10 focus:ring-4 focus:ring-gray-1000"
+                role="button"
+              >
+      
+                Casal
+            </a>
+            <a
+                target="blank"
+                title=""
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-transparent hover:border-white hover:text-white focus:z-10 focus:ring-4 focus:ring-gray-100"
+                role="button"
+              >
+      
+                Queen
+            </a>
+            <a
+                target="blank"
+                title=""
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-transparent hover:border-white hover:text-white focus:z-10 focus:ring-4 focus:ring-gray-100"
+                role="button"
+              >
+      
+                King
+            </a>
+          </div>
+
+          <div className=" mt-6 gap-2 text-sm text-white">
+            <p className="font-light">
+              Solteiro (88x188) - Casal (138x188) - Queen (158x198) - King (198x203)
+            </p>
+            <br></br>
+            <a className=" underlide font-semibold" href="ENTREGA.pdf" target="blank">
+            Consulte a disponibilidade da entrega em até 12h. </a>
+          </div>
+</section>
+
 <img src="geocitiessf.png" className="absolute w-2/3 mt-20 right-96 mr-60"/>
 <img src="Group 43.png" className="w-full" />
+
 </div>
 
 {/*SOBRE*/}
@@ -256,6 +307,15 @@ trazendo mais suporte e menor transmissão de movimento.
 
 </section>
 </div>
+
+{/* VIDEO */}
+
+<section>
+  <div className="py-10 mt-20 bg-gradient-to-r from-stone-200 to-white">
+  <video className="w-2/3 h-auto " src="" type="apresentacao.mp4" autoPlay loop></video>            
+  </div>
+</section>
+
 </div>
 
 {/* Mobile */}
