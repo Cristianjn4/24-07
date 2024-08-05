@@ -44,7 +44,7 @@ export function GeocitiesItem() {
     href="https://api.whatsapp.com/send?phone=5511995379301&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20o%20colch%C3%A3o%20*Simmons%20Geocities.*"
     target="blank"
     title=""
-    class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-transparent hover:border-green-500 hover:text-green-500 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+    class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-transparent hover:border-green-500 hover:text-green-500 focus:z-10 focus:ring-4 focus:ring-gray-100"
     role="button"
   >
     <svg
@@ -62,7 +62,7 @@ export function GeocitiesItem() {
     href="https://www.portalsimmons.com.br/source/files/originals/CO_GEOCITIES-3SPAR_EPTIN33-038182.pdf"
     target="blank"
     title=""
-    class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-white focus:outline-none bg-transparent rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+    class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-white focus:outline-none bg-transparent rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100"
     role="button"
   >        
     Ver ficha técnica
@@ -259,7 +259,7 @@ trazendo mais suporte e menor transmissão de movimento.
 </div>
 
 {/* Mobile */}
-<section class="block lg:hidden py-8 bg-white md:py-16 dark:bg-gray-900 antialiased">
+<section class="block lg:hidden py-8 bg-white md:py-16 antialiased">
     <div class="max-w-screen-xl px-4 mx-auto 2xl:px-0 pt-28">
       <div class="lg:grid lg:grid-cols-2 lg:gap-8 xl:gap-16">
         <div class="shrink-0 max-w-md lg:max-w-lg mx-auto">
@@ -269,12 +269,12 @@ trazendo mais suporte e menor transmissão de movimento.
         </div>
 
         <div class="mt-6 sm:mt-8 lg:mt-0">
-          <h1 className="text-3xl font-extrabold text-gray-900  dark:text-white">
+          <h1 className="text-3xl font-extrabold text-gray-900">
             Colchão Simmons Geocities
           </h1>
           <div class="mt-4 sm:items-center sm:gap-4 sm:flex">
             <p
-              class="text-2xl font-semibold text-gray-900 sm:text-3xl dark:text-white"
+              class="text-2xl font-semibold text-gray-900 sm:text-3xl"
             >
               Intermediário
             </p>
@@ -292,7 +292,7 @@ trazendo mais suporte e menor transmissão de movimento.
                 
               </div>
               <p
-                class="text-sm font-medium leading-none text-gray-500 dark:text-gray-400"
+                class="text-sm font-medium leading-none text-gray-500"
               > 
                 (série - 1)
               </p>
@@ -305,7 +305,7 @@ trazendo mais suporte e menor transmissão de movimento.
               href="https://api.whatsapp.com/send?phone=5511995379301&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20o%20colch%C3%A3o%20*Simmons%20Geocities.*"
               target="blank"
               title=""
-              class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-green-500 hover:text-green-500 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+              class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-green-500 hover:text-green-500 focus:z-10 focus:ring-4 focus:ring-gray-100"
               role="button"
             >
               <svg
@@ -323,7 +323,7 @@ trazendo mais suporte e menor transmissão de movimento.
               href="https://www.portalsimmons.com.br/source/files/originals/CO_GEOCITIES-3SPAR_EPTIN33-038182.pdf"
               target="blank"
               title=""
-              class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-white focus:outline-none bg-black rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+              class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-white focus:outline-none bg-black rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100"
               role="button"
             >
           
@@ -340,7 +340,7 @@ trazendo mais suporte e menor transmissão de movimento.
             <a
                 target="blank"
                 title=""
-                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100"
                 role="button"
               >
       
@@ -349,7 +349,7 @@ trazendo mais suporte e menor transmissão de movimento.
             <a
                 target="blank"
                 title=""
-                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100"
                 role="button"
               >
       
@@ -358,7 +358,7 @@ trazendo mais suporte e menor transmissão de movimento.
             <a
                 target="blank"
                 title=""
-                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100"
                 role="button"
               >
       
@@ -367,7 +367,7 @@ trazendo mais suporte e menor transmissão de movimento.
             <a
                 target="blank"
                 title=""
-                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100"
                 role="button"
               >
       
@@ -380,11 +380,11 @@ trazendo mais suporte e menor transmissão de movimento.
               Solteiro (88x188) - Casal (138x188) - Queen (158x198) - King (198x203)
             </p>
             <br></br>
-            <a className="font-normal underlide font-semibold" href="ENTREGA.pdf" target="blank">
+            <a className=" underlide font-semibold" href="ENTREGA.pdf" target="blank">
             Consulte a disponibilidade da entrega em até 12h. </a>
           </div>
 
-          <hr class="my-6 md:my-8 border-gray-200 dark:border-gray-800" />
+          <hr class="my-6 md:my-8 border-gray-200" />
 
           <p class="mb-6 text-gray-500">
 
