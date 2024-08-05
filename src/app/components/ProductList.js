@@ -1,10 +1,44 @@
 export function Lista() {
     return(
         <div className="bg-white">
+{/*NAV */}
 
+<div class="pt-20 md:p-0">
+    <div class="border-b border-gray-200 justify-center w-full pt-6 lg:pt-0">
+      <nav class=" flex gap-6 justify-center pt-4 pb-1  bg-black  m-auto" aria-label="Tabs">
+        <a
+          href="#colchoes"
+          class="shrink-0 border-b-2 border-transparent px-1 pb-4 text-sm font-light text-white hover:border-white focus:border-white focus:font-medium hover:font-medium"
+        >
+          Colchões
+        </a>
 
+        <a
+          href=""
+          class="shrink-0 border-b-2 border-transparent px-1 pb-4 text-sm font-light text-white hover:border-white focus:border-white focus:font-medium hover:font-medium"
+        >
+          Camas
+        </a>
 
+        <a
+          href=""
+          class="shrink-0 border-b-2 border-transparent px-1 pb-4 text-sm font-light text-white hover:border-white focus:border-white focus:font-medium hover:font-medium"
+        >
+          Travesseiros
+        </a>
 
+        <a
+          href=""
+          class="shrink-0 border-b-2 border-transparent px-1 pb-4 text-sm font-light text-white   hover:border-white focus:border-white focus:font-medium hover:font-medium"
+          aria-current="page"
+        >
+          Acessórios
+        </a>
+      </nav>
+    </div>
+  </div>
+
+  {/* COLCHÕES */}
         <div id="colchoes" className="mx-auto max-w-2xl px-4  sm:px-4 sm:py-10 lg:max-w-7xl lg:px-2">
               
           <div className="grid grid-cols-1 gap-x-10 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8 m-24 ">
