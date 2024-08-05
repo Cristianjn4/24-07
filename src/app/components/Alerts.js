@@ -13,7 +13,7 @@ export function Alerts(){
 
         <div className="">
             {/*Desktop*/}
-            <div className=" fixed items-center bg-black w-screen lg:px-20 h-10 z-10 gap-5 md:justify-between justify-center text-[10px] lg:text-xs hidden lg:flex md:flex ">
+            <div className=" fixed items-center bg-black w-screen lg:px-20 h-10 z-20 gap-5 md:justify-between justify-center text-[10px] lg:text-xs hidden lg:flex md:flex ">
 
             <p className=" items-center text-white  hidden md:flex lg:flex">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="size-5 pr-1">

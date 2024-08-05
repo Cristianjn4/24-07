@@ -8,7 +8,7 @@ export function GeocitiesItem() {
   
 <section className="">
 
-<p className="absolute top-48 right-40 z-20">
+<p className="absolute top-48 right-40 z-10">
 <h1 className="text-3xl font-extrabold  text-white ">
   Colchão Simmons Geocities
 </h1>
@@ -25,14 +25,14 @@ export function GeocitiesItem() {
       <p className="text-white font-extrabold">
         1
       </p>
-      <p className="font-extrabold text-stone-700 ">
+      <p className="font-extrabold text-stone-600 ">
         2 3 4 5
       </p>
       
       
     </div>
     <p
-      class="text-sm font-medium leading-none text-stone-500"
+      class="text-sm font-extralight leading-none text-white"
     > 
       (série - 1)
     </p>
@@ -44,7 +44,7 @@ export function GeocitiesItem() {
     href="https://api.whatsapp.com/send?phone=5511995379301&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20o%20colch%C3%A3o%20*Simmons%20Geocities.*"
     target="blank"
     title=""
-    class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-transparent hover:border-green-500 hover:text-green-500 focus:z-10 focus:ring-4 focus:ring-gray-100"
+    class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-transparent hover:border-green-500 hover:text-green-500  focus:ring-4 focus:ring-gray-100"
     role="button"
   >
     <svg
@@ -62,7 +62,7 @@ export function GeocitiesItem() {
     href="https://www.portalsimmons.com.br/source/files/originals/CO_GEOCITIES-3SPAR_EPTIN33-038182.pdf"
     target="blank"
     title=""
-    class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-white focus:outline-none bg-transparent rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100"
+    class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-white focus:outline-none bg-transparent rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-black hover:text-black  focus:ring-4 focus:ring-gray-100"
     role="button"
   >        
     Ver ficha técnica
@@ -72,7 +72,7 @@ export function GeocitiesItem() {
 </p>
 
 <div className="bg-black w-full h-[400px] float-right ">
-<div className="absolute bg-gradient-to-b from-white to-transparent z-10 items-center opacity-25 h-full w-1/2 right-0"></div>
+<div className="absolute bg-gradient-to-b from-white to-transparent items-center opacity-10 h-full w-1/2 right-0"></div>
 </div>
 
 </section>
@@ -91,21 +91,21 @@ Diferencial em tecnologia
 
 <div className="w-2/3 h-auto  md:flex lg:flex align m-auto gap-8 text-center ">
 <div className="bg-transparent w-40 rounded-full m-auto py-3">
-<img  src="antiacaro.png" alt="" className="shadow-lg bg-white w-40 h-40 rounded-full border-2 border-transparent hover:border-gray-400" />
+<img  src="antiacaro.png" alt="" className="shadow-lg bg-white w-40 h-40 rounded-full border-2 border-transparent" />
 <br/>
-<a href="/products" className=" b-3 font-normal text-black text-center w-auto"> Tecido antiácaro </a>
+<p className=" b-3 font-normal text-black text-center w-auto"> Tecido antiácaro </p>
 </div>
 
 <div className="bg-transparent w-40 rounded-full m-auto py-4">
-<img src="Argentum+.png" alt="" className="bg-white w-40 h-40 rounded-full shadow-lg border-2 border-transparent hover:border-gray-400" />
+<img src="Argentum+.png" alt="" className="bg-white w-40 h-40 rounded-full shadow-lg border-2 border-transparent" />
 <br/>
-<a href="" className=" b-3 font-normal text-black text-center w-auto py-3"> Argentum+ </a>
+<p className=" b-3 font-normal text-black text-center w-auto py-3"> Argentum+ </p>
 </div>
 
 <div className="bg-transparent w-40 rounded-full m-auto py-4">
-<img src="molas ensacadas.png" alt="" className="bg-white w-40 h-40 rounded-full shadow-lg border-2 border-transparent hover:border-gray-400" />
+<img src="molas ensacadas.png" alt="" className="bg-white w-40 h-40 rounded-full shadow-lg border-2 border-transparent" />
 <br/>
-<a href="" className=" b-3 font-normal text-black text-center w-auto py-3"> Beautyrest® </a>
+<p className=" b-3 font-normal text-black text-center w-auto py-3"> Beautyrest® </p>
 </div>
 
 </div>
@@ -118,12 +118,12 @@ Diferencial em tecnologia
 {/*CARACTERISTICAS*/}
 
 <div className="w-full">
-<section className="absolute right-28 mt-10 z-20">
+<section className="absolute right-28 mt-10 z-10">
 <div className="flex mt-6 gap-2">
             <a
                 target="blank"
                 title=""
-                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-transparent hover:border-white hover:text-white focus:z-10 focus:ring-4 focus:ring-gray-100"
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-transparent hover:border-white hover:text-white focus:ring-4 focus:ring-gray-100"
                 role="button"
               >
       
@@ -132,7 +132,7 @@ Diferencial em tecnologia
             <a
                 target="blank"
                 title=""
-                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-transparent hover:border-white hover:text-white focus:z-10 focus:ring-4 focus:ring-gray-1000"
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-transparent hover:border-white hover:text-white focus:ring-4 focus:ring-gray-1000"
                 role="button"
               >
       
@@ -141,7 +141,7 @@ Diferencial em tecnologia
             <a
                 target="blank"
                 title=""
-                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-transparent hover:border-white hover:text-white focus:z-10 focus:ring-4 focus:ring-gray-100"
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-transparent hover:border-white hover:text-white focus:ring-4 focus:ring-gray-100"
                 role="button"
               >
       
@@ -150,7 +150,7 @@ Diferencial em tecnologia
             <a
                 target="blank"
                 title=""
-                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-transparent hover:border-white hover:text-white focus:z-10 focus:ring-4 focus:ring-gray-100"
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-transparent hover:border-white hover:text-white focus:ring-4 focus:ring-gray-100"
                 role="button"
               >
       
@@ -188,7 +188,7 @@ Sobre o produto
 <br/><br/>
 Descubra o auge do conforto com o Colchão Geocities, uma referência em luxo e qualidade. Este colchão excepcional, amplamente preferido 
 em hotéis de prestígio, redefine a experiência de sono, proporcionando uma noite de descanso inigualável.
-esenvolvido com materiais de alta qualidade e tecnologia avançada, o Colchão Geocities oferece conforto, combinando elegância e durabilidade. 
+Desenvolvido com materiais de alta qualidade e tecnologia avançada, o Colchão Geocities oferece conforto, combinando elegância e durabilidade. 
 Seja envolvido pela maciez das camadas premium e entregue-se a um sono profundo e revitalizante todas as noites com o Colchão Geocities que você 
 encontra na Simmons Casa Orner com lojas em Jundiaí e Itatiba.
 </p>
@@ -197,11 +197,19 @@ encontra na Simmons Casa Orner com lojas em Jundiaí e Itatiba.
 </div>
 </section>
 
+{/* VIDEO */}
+
+<section>
+  <div className="py-20 bg-gradient-to-t from-stone-200 to-white justify-center">
+  <video className="w-2/3 h-auto rounded-lg m-auto" src="apresentacao.mp4" type="video.mp4" controls="controls" > </video>            
+  </div>
+</section>
+
 {/*CARACTERISTICAS*/}
 
 
 
-<section className="align justfy-center mt-20">
+<section className="align justfy-center">
 
 
 <div className=" justify-center text-center">
@@ -308,14 +316,6 @@ trazendo mais suporte e menor transmissão de movimento.
 </section>
 </div>
 
-{/* VIDEO */}
-
-<section>
-  <div className="py-10 mt-20 bg-gradient-to-r from-stone-200 to-white">
-  <video className="w-2/3 h-auto " src="" type="apresentacao.mp4" autoPlay loop></video>            
-  </div>
-</section>
-
 </div>
 
 {/* Mobile */}
@@ -365,7 +365,7 @@ trazendo mais suporte e menor transmissão de movimento.
               href="https://api.whatsapp.com/send?phone=5511995379301&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20o%20colch%C3%A3o%20*Simmons%20Geocities.*"
               target="blank"
               title=""
-              class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-green-500 hover:text-green-500 focus:z-10 focus:ring-4 focus:ring-gray-100"
+              class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-green-500 hover:text-green-500 focus:ring-4 focus:ring-gray-100"
               role="button"
             >
               <svg
@@ -383,7 +383,7 @@ trazendo mais suporte e menor transmissão de movimento.
               href="https://www.portalsimmons.com.br/source/files/originals/CO_GEOCITIES-3SPAR_EPTIN33-038182.pdf"
               target="blank"
               title=""
-              class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-white focus:outline-none bg-black rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100"
+              class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-white focus:outline-none bg-black rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-black hover:text-black focus:ring-4 focus:ring-gray-100"
               role="button"
             >
           
@@ -400,7 +400,7 @@ trazendo mais suporte e menor transmissão de movimento.
             <a
                 target="blank"
                 title=""
-                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100"
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:ring-4 focus:ring-gray-100"
                 role="button"
               >
       
@@ -409,7 +409,7 @@ trazendo mais suporte e menor transmissão de movimento.
             <a
                 target="blank"
                 title=""
-                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100"
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:ring-4 focus:ring-gray-100"
                 role="button"
               >
       
@@ -418,7 +418,7 @@ trazendo mais suporte e menor transmissão de movimento.
             <a
                 target="blank"
                 title=""
-                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100"
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:ring-4 focus:ring-gray-100"
                 role="button"
               >
       
@@ -427,7 +427,7 @@ trazendo mais suporte e menor transmissão de movimento.
             <a
                 target="blank"
                 title=""
-                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:z-10 focus:ring-4 focus:ring-gray-100"
+                class="flex w-auto items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-500 focus:outline-none bg-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:border-black hover:text-black focus:ring-4 focus:ring-gray-100"
                 role="button"
               >
       
@@ -435,12 +435,12 @@ trazendo mais suporte e menor transmissão de movimento.
             </a>
           </div>
 
-          <div className=" mt-6 gap-2 text-sm">
+          <div className="text-black mt-6 gap-2 text-sm">
             <p className="font-light">
               Solteiro (88x188) - Casal (138x188) - Queen (158x198) - King (198x203)
             </p>
             <br></br>
-            <a className=" underlide font-semibold" href="ENTREGA.pdf" target="blank">
+            <a className="text-black underlide font-semibold" href="ENTREGA.pdf" target="blank">
             Consulte a disponibilidade da entrega em até 12h. </a>
           </div>
 

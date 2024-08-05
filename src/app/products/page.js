@@ -5,6 +5,7 @@ import Footer from "../components/Footer";
 import Header from "../components/Header";
 import { Lista } from "../components/ProductList";
 import { Whatsicon } from "../components/Whatsapp";
+import { NavProd } from "../components/NavProducts";
 
 export default function (){
   return(
@@ -12,9 +13,8 @@ export default function (){
       <Whatsicon/>
       <Header/>   
       <Alerts/>
-      <div className="bg-white gap-y-3 pt-20">
+      <NavProd/>
       <Lista/> 
-      </div>
       <Footer/>
     </>
   );
