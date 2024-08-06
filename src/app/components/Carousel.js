@@ -15,7 +15,7 @@ export function Carousel(){
             </div>
             {/* Item 3 */}
             <div className="hidden duration-700 ease-in-out" data-carousel-item>
-                <video className="w-full" src="./banner-rotativo-1.mp4" type="video.mp4" autoPlay muted loop></video>            
+                <video className="w-full" src="./banner-rotativo-3.mp4" type="video.mp4" autoPlay muted loop></video>            
             </div>
             
         </div>
@@ -25,8 +25,7 @@ export function Carousel(){
             <button type="button" class="w-3 h-3 rounded-full" aria-current="true" aria-label="Slide 1" data-carousel-slide-to="0"></button>
             <button type="button" class="w-3 h-3 rounded-full" aria-current="false" aria-label="Slide 2" data-carousel-slide-to="1"></button>
             <button type="button" class="w-3 h-3 rounded-full" aria-current="false" aria-label="Slide 3" data-carousel-slide-to="2"></button>
-            <button type="button" class="w-3 h-3 rounded-full" aria-current="false" aria-label="Slide 4" data-carousel-slide-to="3"></button>
-            <button type="button" class="w-3 h-3 rounded-full" aria-current="false" aria-label="Slide 5" data-carousel-slide-to="4"></button>
+
         </div>
         {/* Slider controls */}
         <button type="button" class="absolute top-0 start-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-prev>
