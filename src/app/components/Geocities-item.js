@@ -16,7 +16,7 @@ export function GeocitiesItem() {
   <p
     class="text-2xl font-semibold text-white sm:text-3xl"
   >
-    Intermediário
+    Intermediário - 28cm
   </p>
 
   <div class="flex items-center gap-2 mt-2 sm:mt-0">
@@ -39,36 +39,7 @@ export function GeocitiesItem() {
 
   </div>
 </div>
-<div class="mt-6 sm:gap-4 sm:items-center sm:flex sm:mt-8">
-  <a
-    href="https://api.whatsapp.com/send?phone=5511995379301&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20o%20colch%C3%A3o%20*Simmons%20Geocities.*"
-    target="blank"
-    title=""
-    class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-transparent hover:border-green-500 hover:text-green-500  focus:ring-4 focus:ring-gray-100"
-    role="button"
-  >
-    <svg
-                  className="w-5 h-5 -ms-2 me-2"
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="currentColor"
-                      viewBox="0 0 448 512">
-                      <path
-                      d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7 .9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z" />
-    </svg>
-    Entrar em contato pelo WhatsApp
-  </a>
 
-  <a
-    href="https://www.portalsimmons.com.br/source/files/originals/CO_GEOCITIES-3SPAR_EPTIN33-038182.pdf"
-    target="blank"
-    title=""
-    class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-white focus:outline-none bg-transparent rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-black hover:text-black  focus:ring-4 focus:ring-gray-100"
-    role="button"
-  >        
-    Ver ficha técnica
-  </a>
-
-</div>
 </p>
 
 <div className="bg-black w-full h-[400px] float-right ">
@@ -166,6 +137,38 @@ Diferencial em tecnologia
             <a className=" underlide font-semibold" href="ENTREGA.pdf" target="blank">
             Consulte a disponibilidade da entrega em até 12h. </a>
           </div>
+
+          <div class="mt-6 sm:gap-4 sm:items-center sm:flex sm:mt-8">
+  <a
+    href="https://api.whatsapp.com/send?phone=5511995379301&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20o%20colch%C3%A3o%20*Simmons%20Geocities.*"
+    target="blank"
+    title=""
+    class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-transparent hover:border-green-500 hover:text-green-500  focus:ring-4 focus:ring-gray-100"
+    role="button"
+  >
+    <svg
+                  className="w-5 h-5 -ms-2 me-2"
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="currentColor"
+                      viewBox="0 0 448 512">
+                      <path
+                      d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7 .9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z" />
+    </svg>
+    Entrar em contato pelo WhatsApp
+  </a>
+
+  <a
+    href="https://www.portalsimmons.com.br/source/files/originals/CO_GEOCITIES-3SPAR_EPTIN33-038182.pdf"
+    target="blank"
+    title=""
+    class="flex items-center justify-center py-2.5 px-5 text-sm font-medium text-white focus:outline-none bg-transparent rounded-lg border border-gray-200 hover:bg-gray-100 hover:border-black hover:text-black  focus:ring-4 focus:ring-gray-100"
+    role="button"
+  >        
+    Ver ficha técnica
+  </a>
+
+</div>
+
 </section>
 
 <img src="geocitiessf.png" className="absolute w-2/3 mt-20 right-96 mr-60"/>
@@ -212,37 +215,40 @@ encontra na Simmons Casa Orner com lojas em Jundiaí e Itatiba.
 <section className="align justfy-center">
 
 
-<div className=" justify-center text-center">
+<div className=" justify-center ">
 
 
 
-<div className="px-10 m-auto text-center bg-[url('/base.png')] h-full py-20 text-white">
+<div className="px-10 m-auto bg-[url('/base.png')] h-full pt-20 pb-10 text-white">
+
+<div className="w-3/4 m-auto">
+
 <h3 className="text-4xl font-bold md:text-3xl  align text-center pb-4">
 Características
 </h3>
 <p className=" py-1 ">
+<a className="font-bold ">Altura do colchão: </a>
+28cm</p>
+
+<p className=" py-1 ">
 <a className="font-bold ">Tecido da capa: </a>
-Malha Bamboo Touch de toque suave (83% Poliéster, 17% Viscose).
-</p>
+Malha Robusta (100% poliéster) com gramatura 200g/m² com tratamento de Íons de prata VBacBlock com bactericida que inibe a proliferação de ácaros, proporcionando 
+mais saúde e higiene.</p>
 
 <p className=" py-1 ">
 <a className="font-bold ">Tecido da faixa lateral: </a>
-Tecido lateral em Original Suede Marfim (100% Poliéster).
-</p>
+Malha Robusta (100% poliéster) com gramatura 200g/m² com tratamento de Íons  de prata VBacBlock com bactericida que inibe a proliferação de ácaros, proporcionando mais saúde e higiene.</p>
 
 <p className="py-1 ">
 <a className="font-bold ">Tecnologias: </a>
-Top Visco inside, Bamboo Touch, Espuma de alta performance D33, Posturest LFK2.2
-</p>
-
-<p className="py-1 ">
-<a className="font-bold ">Molejo: </a>
-Molejo LFK com bitola de 2.2mm, 224 molas por m 2 e suporte médio de 1.457Kg/m 2    </p>
+Formado por lâminas de espuma de alta performance, Beautyrest</p>
 
 </div>
 
 
 </div>
+</div>
+
 
 </section>
 
