@@ -22,7 +22,7 @@ export function CarouselBody(){
             {/* Carousel wrapper */}
 
             
-            <div class="relative md:h-96">
+            <div class="overflow-hidden relative md:h-96">
                 {/* Item 1 */}
                 <div className="hidden duration-700 ease-in-out" data-carousel-item="active">
                 <img className="w-full" src="banner-1.png" alt='carousel'/>
