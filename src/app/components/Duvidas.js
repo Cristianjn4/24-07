@@ -37,7 +37,7 @@ export  function Duvidas() {
 
 
                         <div className="w-auto h-auto m-auto gap bg-white rounded-2xl justify-between">
-                            <p className=" text-black/100 align justify-center p-4 font-extralight block lg:flex gap-8">
+                            <div className=" text-black/100 align justify-center p-4 font-extralight block lg:flex gap-8">
                                 
                             <div className="mt-2 md:mt-4">
                             <a
@@ -71,7 +71,7 @@ export  function Duvidas() {
                             </a>
                             </div>                   
 
-                            </p>
+                            </div>
                         </div>  
                 </details>
                 </div>

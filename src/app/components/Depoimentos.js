@@ -27,10 +27,10 @@
 
                 <p className=" font-bold text-white text-7xl my-5"> 5,0 </p>  
 
-                        <div id="indicators-carousel" className="relative z-0 pt-4 h-52 overlay-hidden lg:block" data-carousel="static">
+                        <div id="indicators-carousel" className="relative z-0 pt-4 h-52 hidden lg:block" data-carousel="static">
                 {/* Carousel wrapper */}
-                <div class="relative hidden md:h-96 md:flex lg:flex align items-center">
-                    
+                <div class="relative overflow-hidden md:h-96 md:flex lg:flex align items-center">
+
                     {/* Item 1 */}
                     <div className="hidden duration-700 ease-in-out " data-carousel-item="active">
                     <p className="text-white/100 align justify-center p-10 font-extralight italic w-2/3 h-auto bg-[#262626] rounded-2xl">
