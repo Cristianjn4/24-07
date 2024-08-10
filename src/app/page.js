@@ -20,8 +20,8 @@ export default function Home() {
   return(
     <>
       <Whatsicon/>
-      <Header/>   
       <Alerts/>
+      <Header/>   
       <Carousel/>
       <Destaque/>
       <Lojas/>
