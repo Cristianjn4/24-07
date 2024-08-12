@@ -23,7 +23,7 @@ export function EvolutionItem() {
             <div class="flex items-center gap-2 mt-2 sm:mt-0">
               <div class="flex items-center gap-1">
 
-                <p className="font-extrabold">
+                <p className="font-extrabold text-black">
                   1 2 3 4 5
                 </p>
                 <p className="font-extrabold text-gray-400 ">
@@ -76,7 +76,8 @@ export function EvolutionItem() {
 
           </div>
 
-          <div className="flex mt-6 gap-2">
+          <div className="flex mt-6 gap-1">
+
             <a
                 target="blank"
                 title=""
@@ -120,7 +121,7 @@ export function EvolutionItem() {
               Solteiro (88x188) - Casal (138x188) - Queen (158x198) - King (198x203)
             </p>
             <br></br>
-            <a className="font-normal underlide font-semibold" href="ENTREGA.pdf" target="blank">
+            <a className="underlide font-semibold" href="ENTREGA.pdf" target="blank">
             Consulte a disponibilidade da entrega em até 12h. </a>
           </div>
 

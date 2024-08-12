@@ -23,7 +23,7 @@ export function MarbellaItem() {
             <div class="flex items-center gap-2 mt-2 sm:mt-0">
               <div class="flex items-center gap-1">
 
-                <p className="font-extrabold">
+                <p className="font-extrabold text-black">
                   1 2
                 </p>
                 <p className="font-extrabold text-gray-400 ">
@@ -73,7 +73,7 @@ export function MarbellaItem() {
 
           </div>
 
-          <div className="flex mt-6 gap-2">
+          <div className="flex mt-6 gap-1">
             <a
                 target="blank"
                 title=""
