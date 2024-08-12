@@ -116,8 +116,8 @@ export function EvolutionItem() {
             </a>
           </div>
 
-          <div className=" mt-6 gap-2 text-sm">
-            <p className="font-light">
+          <div className=" mt-6 gap-2 text-sm text-black">
+            <p className="font-light text-black">
               Solteiro (88x188) - Casal (138x188) - Queen (158x198) - King (198x203)
             </p>
             <br></br>

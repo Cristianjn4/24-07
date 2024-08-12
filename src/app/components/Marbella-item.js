@@ -112,7 +112,7 @@ export function MarbellaItem() {
             </a>
           </div>
 
-          <div className=" mt-6 gap-2 text-sm">
+          <div className=" mt-6 gap-2 text-sm text-black">
             <p className="font-light">
               Solteiro (88x188) - Casal (138x188) - Queen (158x198) - King (198x203)
             </p>
