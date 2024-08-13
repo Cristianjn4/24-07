@@ -2,12 +2,6 @@ import { useState } from "react";
 
 
 export function Alerts(){
-    
-    const [alert] = useState(() => {     
-        texto1: "TEXTO-1"
-        texto2: "TEXTO-2"
-        texto3: "TEXTO-3"
-    })
 
     return(
 
