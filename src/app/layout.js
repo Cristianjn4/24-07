@@ -17,6 +17,13 @@ export default function RootLayout({ children }) {
       <head>
       <link href="https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.css" rel="stylesheet" />
       
+      <link
+        href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap"
+        rel="stylesheet" />
+      <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/tw-elements/css/tw-elements.min.css" />
+
       </head>
       <body className={montserrat.className} >
         {children}
