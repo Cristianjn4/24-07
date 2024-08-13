@@ -56,28 +56,28 @@ export function Carousel(){
     {/* Mobile Carousel */}
         
 
-<div id="default-carousel" class="relative z-0 w-full h-16 pt-14 mb-20 lg:hidden md:hidden" data-carousel="slide">
+<div id="default-carousel" class="relative z-0 w-full h-16 pt-11 mb-20 lg:hidden md:hidden" data-carousel="slide">
     {/* Carousel wrapper */}
     <div class="relative  h-56 overflow-hidden rounded-lg md:h-96">
          {/* Item 1 */}
         <div class="hidden duration-1000 ease-in-out" data-carousel-item>
-            <video src="./banner-rotativo-1.mp4" type="video.mp4" autoPlay muted loop className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Simmmons Bamboo"/>
+            <video src="./banner-rotativo-1.mp4" type="video.mp4" autoPlay muted loop autobuffer playsinline  className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Simmmons Bamboo"/>
         </div>
         {/* Item 2 */}
         <div class="hidden duration-1000 ease-in-out" data-carousel-item>
-            <video src="./banner-rotativo-2.mp4" type="video.mp4" autoPlay muted loop className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Troca solidária"/>
+            <video src="./banner-rotativo-2.mp4" type="video.mp4" autoPlay muted loop autobuffer playsinline="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Troca solidária"/>
         </div>
         {/* Item 3 */}
         <div class="hidden duration-1000 ease-in-out" data-carousel-item>
-            <video src="./banner-rotativo-1.mp4" type="video.mp4" autoPlay muted loop className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Dia dos pais"/>
+            <video src="./banner-rotativo-1.mp4" type="video.mp4" autoPlay muted loop autobuffer playsinline="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Dia dos pais"/>
         </div>
         {/* Item 4 */}
         <div class="hidden duration-1000 ease-in-out" data-carousel-item>
-        <video src="./banner-rotativo-2.mp4" type="video.mp4" autoPlay muted loop className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Simmmons Bamboo"/>
+        <video src="./banner-rotativo-2.mp4" type="video.mp4" autoPlay muted loop autobuffer playsinline="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Simmmons Bamboo"/>
         </div>
         {/* Item 5 */}
         <div class="hidden duration-1000 ease-in-out" data-carousel-item>
-        <video src="./banner-rotativo-1.mp4" type="video.mp4" autoPlay muted loop className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Simmmons Bamboo"/>
+        <video src="./banner-rotativo-1.mp4" type="video.mp4" autoPlay muted loop autobuffer playsinline="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="Simmmons Bamboo"/>
         </div>
     </div>
    
