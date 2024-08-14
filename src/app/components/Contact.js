@@ -41,7 +41,7 @@ export function Contact() {
                 Com certeza teremos um atendente pronto para lhe ajudar.</p>
 
             <div className="flex gap-4 justify-center ">
-                <p class="block mb-2 text-sm font-medium text-gray-900 dar    k:text-black">Telefone ✆ Jundiaí: (55) 11 4522-6982</p> <br/> <p class="block mb-2 text-sm font-medium text-gray-900 dar    k:text-black">Telefone ✆ Itatiba: (55) 11 4487-0986</p> <br/>
+                <p class="block mb-2 text-sm font-medium text-gray-900 dar    k:text-black"> <a href="tel:(11) 4522-6982"> Telefone ✆ Jundiaí: (55) 11 4522-6982</a></p> <br/> <p class="block mb-2 text-sm font-medium text-gray-900 dark:text-black"> <a href="tel:(11) 4487-0986">  Telefone ✆ Itatiba: (11) 4487-0986 </a> </p> <br/>
             </div>
                
             <div className="w-auto h-auto m-auto gap bg-white rounded-2xl justify-between">

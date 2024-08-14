@@ -6,10 +6,10 @@ export default function Footer() {
                 <div className="mb-6 md:mb-0">
                     <img src="logoW.png" className="w-40 h-auto" ></img>
                 </div>
-                <div className=" grid-cols-3 gap-10 hidden lg:grid">
-                    <div className="">
+                <div className=" grid-cols-3 gap-10 grid">
+                    <div className="hidden lg:block">
                 
-                        <h2 className="flex mb-6 text-sm font-semibold text-white uppercase">
+                        <h2 className="flex mb-6 text-sm font-semibold text-white uppercase ">
                             <svg class="h-5 w-5 pr-1 text-white flex"  fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
                             </svg>
@@ -24,7 +24,7 @@ export default function Footer() {
                             </li>
                         </ul>
                     </div>
-                    <div>
+                    <div className="hidden lg:block">
                         <h2 className=" flex mb-6 text-sm font-semibold text-white uppercase">
                         <svg class="w-5 text-white-100 pr-1"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <circle cx="12" cy="11" r="3" />  <path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 0 1 -2.827 0l-4.244-4.243a8 8 0 1 1 11.314 0z" /></svg>
                             ENDEREÇOS
@@ -44,7 +44,7 @@ export default function Footer() {
                         </ul>
 
                     </div>
-                    <div>
+                    <div className="hidden lg:block">
                         <h2 className="mb-6 text-sm font-semibold text-white uppercase flex">
                             <svg class=" w-5 text-white-100 pr-1"  fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
