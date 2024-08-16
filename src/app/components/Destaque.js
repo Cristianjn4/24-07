@@ -3,7 +3,7 @@ export function Destaque(){
         <div className=" bg-gray-100 ">
              <div className="pt-32 md:p-12 lg:px-16 lg:py-24 align items-center text-center bg-gray-100 pb-10">
                 <div className="mx-2  ltr:sm:text-left rtl:sm:text-right">
-                <img src="logoR.png" className="m-auto w-44 mb-5" />
+                <img src="logo50sim.jpg" className="m-auto w-44 mb-5 rounded-full" />
                 <h3 className="text-3xl px-8 font-bold text-black">
                     Destaque Loja Perfeita Simmons
                 </h3> 

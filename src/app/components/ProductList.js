@@ -4,8 +4,8 @@ export function Lista() {
 {/*NAV */}
 
 <div class="pt-20 md:p-0">
-    <div class="border-b border-gray-200 justify-center w-full pt-6 lg:pt-0">
-      <nav class=" flex gap-6 justify-center px-2 pt-4 pb-1 bg-black  m-auto" aria-label="Tabs">
+    <div class="border-b border-gray-200 justify-center w-full">
+      <nav class=" flex gap-6 justify-center px-2 pb-1 pt-10 bg-black  m-auto" aria-label="Tabs">
         <a
           href="#colchoes"
           class="shrink-0 border-b-2 border-transparent px-1 pb-4 text-sm font-light text-white hover:border-white focus:border-white focus:font-medium hover:font-medium"

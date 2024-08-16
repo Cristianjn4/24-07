@@ -45,12 +45,12 @@ export default function Header() {
                 <div className="flex items-center gap-3 pr-36 ">
                 <Search>
                 </Search>
-                    <button className="pr-3 ">
+                    <a className="pr-3" href="/login">
                     <span>
                     <svg className="h-5 w-5 text-white"  fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
                     </span>
-                    </button>
+                    </a>
 
                     <button>
                     <span>
@@ -98,10 +98,10 @@ export default function Header() {
            
               <ul class="py-2" role="none">
                 <li>
-                  <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Entrar como Gerenciador</a>
+                  <a href="/login" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Entrar como Gerenciador</a>
                 </li>
                 <li>
-                  <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Sair </a>
+                  <a href="#" class="block px-4 py-2 text-sm text-red hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Sair </a>
                 </li>
               </ul>
             </div>
