@@ -17,7 +17,7 @@ export function About(){
                         Bem-vindo à Simmons Casa Orner, sua loja exclusiva de colchões direto da fábrica Simmons. 
                         Temos o orgulho de oferecer o melhor em conforto e qualidade para o sono. Com o compromisso do 
                         melhor preço garantido, entrega gratuita em toda a região de São Paulo e diversas formas de pagamento, 
-                        tornamos mais acessível do que nunca investir na sua saúde e bem-estar.
+                        tornamos mais acessível do que nunca investir na sua saúde e bem-estar. 
                         <br/>
                         
                         <br/>
