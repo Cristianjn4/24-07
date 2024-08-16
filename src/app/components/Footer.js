@@ -1,4 +1,4 @@
-export default function Footer() {
+export function Footer() {
     return(
         <footer className="bg-gradient-to-r from-neutral-800 to-neutral-950 bottom-0">
             <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">

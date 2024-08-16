@@ -1,6 +1,6 @@
 import Search from "./Search";
 
-export default function Header() {
+export function Header() {
     return(
       <div>
 

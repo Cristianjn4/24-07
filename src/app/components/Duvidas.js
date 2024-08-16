@@ -1,4 +1,4 @@
-export  function Duvidas() {
+export function Duvidas() {
     return(
         <div className="w-full h-auto text-black  bg-white  align justify-center text-center py-16">
                 <p className="text-4xl font-bold align items-center text-center mb-4">
