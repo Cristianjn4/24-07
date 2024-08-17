@@ -1,13 +1,15 @@
 "use client"
 
-import Footer from "./components/Footer";
-import Header from "./components/Header";
-import {Duvidas} from "./components/Duvidas";
+import { Alerts } from "../components/Alerts";
+import { Duvidas } from "../components/Duvidas";
+import Footer from "../components/Footer";
+import Header from "../components/Header";
 
-export default function () {
+export default function (){
   return(
     <>
-      <Header/>   
+      <Header/>
+      <Alerts/>
       <Duvidas/>
       <Footer/>
     </>
