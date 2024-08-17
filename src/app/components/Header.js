@@ -1,6 +1,6 @@
 import Search from "./Search";
 
-export function Header() {
+export default function Header() {
     return(
       <div>
 
@@ -12,7 +12,7 @@ export function Header() {
                 
                 <div className="flex items-center gap-10 text-white">
                     <a href="/">
-                    <img className="w-12" src="Slogo.png"></img>
+                    <img className="w-12 rounded-full" src="logo50sim.jpg"></img>
                     </a>
 
                     <ul className="flex items-center gap-12">
