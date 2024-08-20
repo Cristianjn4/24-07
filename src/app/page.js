@@ -15,6 +15,7 @@ import { Hoteis } from "./components/Hoteis";
 import { TrocaSolidaria } from "./components/TrocaSolidaria";
 import {Duvidas} from "./components/Duvidas";
 import {GaleriaHome} from "./components/Galeria-Home";
+import Promotion from "./components/Promotion";
 
 export default function Home() {
   return(
@@ -24,6 +25,7 @@ export default function Home() {
       <Header/>   
       <Carousel/>
       <Destaque/>
+      <Promotion/>
       <Lojas/>
       <Categorias/>
       <CarouselBody/>
