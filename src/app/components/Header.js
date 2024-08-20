@@ -82,7 +82,7 @@ export default function Header() {
             </svg>
          </button>
         <a href="/" class="flex ms-2 md:me-24 ">
-          <img src="Slogo.png" class="h-8 me-3 m-auto" alt="Logo Simmons" />
+          <img src="logo50sim.png" class="h-8 me-3 m-auto rounded-full" alt="Logo Simmons" />
           <span class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap dark:text-white"></span>
         </a>
       </div>
