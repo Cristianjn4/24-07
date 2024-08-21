@@ -6,6 +6,7 @@ import Header from "../components/Header";
 import { Lista } from "../components/ProductList";
 import { Whatsicon } from "../components/Whatsapp";
 import { NavProd } from "../components/NavProducts";
+import { Promotion } from "../components/Promotion";
 
 export default function (){
   return(
@@ -13,8 +14,8 @@ export default function (){
       <Whatsicon/>
       <Header/>   
       <Alerts/>
-      <NavProd/>
-      <Lista/> 
+      <Promotion/>
+      <Lista/>
       <Footer/>
     </>
   );
