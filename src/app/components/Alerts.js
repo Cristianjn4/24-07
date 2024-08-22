@@ -1,7 +1,6 @@
-import { useState } from "react";
 
 
-export function Alerts(){
+export  function Alerts(){
 
     return(
 

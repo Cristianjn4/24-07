@@ -145,7 +145,7 @@ export function GeocitiesItem() {
           <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3337/Icone_Pocketed-651617_80-80-0-0.jpg" title="" />
           </div>
           <div className="flex text-justify text-xs font-light gap-10">
-          <p>Tecido antiácaro</p> <p>Argentum+</p> <p>Espuma de <br/> Beautyrest®</p> 
+          <p>Tecido antiácaro</p> <p>Argentum+</p> <p>Beautyrest®</p> 
           </div>
           <p>&nbsp;</p>
 

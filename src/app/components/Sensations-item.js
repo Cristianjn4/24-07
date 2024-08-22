@@ -140,7 +140,7 @@ export function SensationsItem() {
           <img alt="" src="https://www.portalsimmons.com.br/source/files/c/3338/Icone_Posturest-491235_80-80-0-0.jpg" title="" />
           </p>          </div>
           <div className="flex text-justify text-xs font-light gap-10">
-          <p>Tecido antiácaro</p> <p>Argentum+</p> <p>Espuma de <br/> Beautyrest®</p> 
+          <p>Tecido antiácaro</p> <p>Argentum+</p> <p>Beautyrest®</p> 
           </div>
           <p>&nbsp;</p>
 

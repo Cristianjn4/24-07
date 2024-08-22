@@ -15,6 +15,9 @@ export default function RootLayout({ children }) {
   return (
     <html lang="pt-br" className=" !scroll-smooth">
       <head>
+      <script src="login.js" type="text/javascript"></script>
+      <script src="script.js" type="text/javascript"></script>
+
       <link href="https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.css" rel="stylesheet" />
       
       <link
