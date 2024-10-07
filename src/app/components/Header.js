@@ -1,18 +1,20 @@
+import React from "react";
 import Search from "./Search";
 
 export default function Header() {
+
     return(
-      <div>
+      <header> 
 
-        <header className="text-sm fixed item-center w-full pt-6 h-32 z-10">
+        <div className="text-sm fixed item-center w-full pt-6 h-32 z-10 transition-" >
 
-            <div className="hidden lg:block md:block bg-gradient-to-b from-stone-800 to-transparent">
+            <div className="hidden lg:block md:block bg-gradient-to-b from-stone-600 to-transparent">
             <div className="w-full max-w-[1246] px-[20px] mx-auto">
             <div className="flex items-center justify-between ">
                 
                 <div className="flex items-center gap-10 text-white">
                     <a href="/">
-                    <img className="w-12 rounded-full" src="logo50sim.jpg"></img>
+                    <img className="w-12 rounded-full" src="S.jpg"></img>
                     </a>
 
                     <ul className="flex items-center gap-12">
@@ -64,7 +66,7 @@ export default function Header() {
             </div>
         </div>
             </div>
-         </header>
+         </div>
 
         {/* NAVBAR MOBILE */}
 
@@ -82,7 +84,7 @@ export default function Header() {
             </svg>
          </button>
         <a href="/" class="flex ms-2 md:me-24 ">
-        <img className="w-12 rounded-full" src="logo50sim.jpg"></img>
+        <img className="w-12 rounded-full" src="logo50sim.jpg"></img>   
           <span class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap dark:text-white"></span>
         </a>
       </div>
@@ -187,7 +189,7 @@ export default function Header() {
 
 
 
-        </div> 
+        </header> 
 
 
     )
